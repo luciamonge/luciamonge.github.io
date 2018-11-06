@@ -1,0 +1,135 @@
+div {
+    box-sizing: border-box;
+    outline: none;
+}
+
+body {
+    font-family: Helvetica Neue, sans-serif;
+    font-weight: 300;
+    font-size: 1.1em;
+    color: #222;
+    line-height: 140%;
+    background-color: #ddda0d;
+}
+
+h1, h2, h3, h4, h5 {
+    font-weight: 400;
+    background-color: hotpink;
+    padding: 5px;
+    width: 250px;   
+}
+
+    h1 a { text-decoration: none;}
+
+h2 {
+    font-weight: 300;
+}
+
+h2, h3 {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+a {
+    color: #222;
+    text-decoration: underline;
+    transition: 0.25s;
+}
+    
+    a:hover { color: #00ff00; }
+
+ul {
+    list-style-type: circle;
+    padding: 0;
+    list-style-position: inside;
+}
+
+div#container {
+    margin: auto;
+    max-width: 1024px;
+    padding: 30px;
+}
+
+hr {
+    margin-top: 100px;
+    border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+img {
+    display: block;
+    width: 100%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.exhibition {
+    font-weight: 400;
+    color: #00ff00;
+    font-style: normal;
+}
+
+.es {
+    color: red;
+}
+
+.en {
+    color: blue;
+}
+
+
+
+
+/* CAROUSEL STYLING */
+
+.carousel:hover {
+    cursor: pointer;
+}
+
+.slick-prev, .slick-next {
+    position: absolute;
+    background: none;
+    /*background-color: blue;*/
+    /*display: none;*/
+    border: none;
+}
+
+.slick-slide img {
+    display: block; 
+}
+
+ul.slick-dots {
+    margin-top: -50px;
+    margin-bottom: 40px;
+    width: 100%;
+    display: table;
+    /*background-color: orange;*/
+}
+
+    ul.slick-dots button {
+        font-size: 0;
+        height: 5px;
+        background: #ddd;
+        border: none;
+        padding: 0;
+        outline: none;
+        transition: 0.25s;
+    }
+
+    ul.slick-dots button:hover { background: #00FF00; cursor: pointer; border: none; }
+
+    ul.slick-dots li {
+        display: inline;
+        display: table-cell;
+    }
+
+        ul.slick-dots li button {
+            width: 100%;
+        }
+
+li.slick-active button {
+    background: teal;
+    border: none;
+}
