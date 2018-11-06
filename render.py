@@ -1,14 +1,14 @@
-#!/usr/bin/env python3
+#!/usr/local/bin/python3
 
-import markdown
+import markdown, os
 
-with open("content.md") as f:
+with open(os.path.abspath(os.path.join(os.path.dirname(__file__), "content.md"))) as f:
     content = f.read().strip()
-    content = markdown.markdown(content, ['extra'])
+    content = markdown.markdown(content, extensions=['extra'])
 
-with open("template.html") as f:
+with open(os.path.abspath(os.path.join(os.path.dirname(__file__), "template.html"))) as f:
     template = f.read()
 
-with open("index.html", 'w') as f:
+with open(os.path.abspath(os.path.join(os.path.dirname(__file__), "index.html")), 'w') as f:
     f.write(template.replace("CONTENT", content))
 

@@ -5,6 +5,7 @@
 
 ## News
 
+- Brian House is dope!
 - I started the year on the amazing arts & ecology residence at Guapamacátaro *(January)*{: .exhibition }
 - The second issue of Global Performance Studies came out this month and included a multimedia essay on Plantón Móvil that I wrote. This is my first peer-reviewed journal contribution so I am happy about this! (January)
 - I am going to lead a workshop at Ruderal Ecologies: Grounds for Change– A Symposium Entangling Art, Ecology and Environmental Justice at The Sanctuary for Independent Media in North Troy, NY (April 13-15)
