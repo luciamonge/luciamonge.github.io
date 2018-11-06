@@ -50,6 +50,17 @@ div#container {
     padding: 30px;
 }
 
+div#decoration {
+    top:0;
+    right:0;
+    position: fixed;
+    height: 200px;
+    width: 100%;
+    z-index: 50;
+    pointer-events: none;
+    background: url('images/decoration.png') top right no-repeat;
+}
+
 hr {
     margin-top: 100px;
     border: 0;
