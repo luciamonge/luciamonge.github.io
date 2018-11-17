@@ -167,15 +167,15 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_BodyParts_4b.png"></div>
 </div>
 
-I make body parts. It's what I do.
+I make body parts. 
 
 
 ## <a name="bio"></a>Bio
 
-I am a Peruvian artist based in New York city, I teach, and team up with others to create parks in urban areas. I think much about how to better collaborate across disciplines and with other species, specially plants. Social practice and teaching allow me to explore these interests in multi-directional ways. Most of my artwork focuses on the way movement influences our relationship to plants.  
+I am a Peruvian artist based in New York city interested in interdisciplinary and interspecies collaborations, specially with plants. Most of my artwork focuses on the way movement influences our relationship to plants and involves creating spaces to bring people and plants together in different forms of exchange. (=plants!)
 {: .en }
 
-Plant movement can easily go unnoticed, and their apparent immobility can facilitate their objectification. Because we don't see them move, they are sometimes treated more like objects than other living beings such as animals. For example, we discuss animal rights far more frequently than plant rights, and conservation efforts commonly focus their arguments on the services that plants provide to humans rather than their right to life itself. Most of my artwork highlights plant movement as a way to shift their consideration from passive adornments to active agents; our living neighbors in the city.
+I have been organizing yearly 'walking forest' performances that lead to the creation of public parks since 2010 (more on Plantón Móvil here). I graduated from RISD with an MFA in sculpture and from PUCP with a BFA in painting. I have taught at RISD and Brown University where I still commute to teach every week.
 {: .en }
 
 CV
