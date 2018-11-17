@@ -173,10 +173,13 @@ I make body parts.
 
 ## <a name="bio"></a>Bio
 
-I am a Peruvian artist based in New York city interested in interdisciplinary and interspecies collaborations, specially with plants. Most of my artwork focuses on the way movement influences our relationship to plants and involves creating spaces to bring people and plants together in different forms of exchange. (=plants!)
+Lucia Monge is a Peruvian artist with a background in education and art + science collaboration. Her work explores the way humans position ourselves within the natural world and relate to other living beings, especially plants. For the past eight years she has organized Plantón Móvil, a yearly “walking forest” performance that leads to the creation of public green areas. This year she is preparing for two iterations of this project with Whitechapel Gallery in London and for the first National Botanical Garden in Lima.  
 {: .en }
 
-I have been organizing yearly 'walking forest' performances that lead to the creation of public parks since 2010 (more on Plantón Móvil here). I graduated from RISD with an MFA in sculpture and from PUCP with a BFA in painting. I have taught at RISD and Brown University where I still commute to teach every week.
+Monge has exhibited widely in South America, Europe, and the United States as well as at the United Nations Climate Change Conference (COP21). She has presented her work in conferences including Performance Climates at Melbourne University and recently Open Engagement at the Queens Museum and has been included in publications such as Global Performance Issues and MoMA’s Uneven Growth as well as in the popular press.   
+{: .en }
+
+She currently lives and works in Providence, Rhode Island where she teaches at Brown University and works at RISD Nature Lab as a coordinator and researcher for a National Science Foundation grant. She is also an affiliated researcher at the Centre for Water Research and Development in the University of Witwatersrand in Johannesburg. Lucia holds a BFA from Universidad Católica del Peru, and a MFA from Rhode Island School of Design.
 {: .en }
 
 CV
