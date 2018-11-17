@@ -40,6 +40,7 @@
 2018-ongoing
 
 This (still untitled) project starts with Charles Darwin's text The Movements and Habits of Climbing Plants and replicates some of his experiments for observing and notating plant movement. Although my experiments are translations of his methods, tools, and techniques they share a base in observation. My project notes two different scales and contexts. One of my experiments marks the growth of particular shoots and tendrils in plants inside my studio and the other records the movement of plants intertwined with the urban infrastructure. The first scenario allows for a focus on the movement of specific plant parts and of the individuals themselves by reducing the amount of environmental variables. The second scenario focuses on precisely the movement that results from the changing environment and represents the negotiation between the plants, the built environment, and the other many living beings bustling on the streets.
+{: .en }
 
 The fences that these climbers creep on have a key role in this work as well. It is this specific type of movement that weaves permeability into the border.
 {: .en }
