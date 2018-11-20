@@ -9,13 +9,13 @@ body {
     font-size: 0.8em;
     color: black;
     line-height: 120%;
-    background-color: #fcfcf4;
+    background-color: white;
 }
 
 h1, h2, h3, h4, h5 {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    background-color: #e2ea00;
+    background-color: #fc8aee;  
     padding: 10px;
     width: 250px;   
     /*display: block;*/
@@ -23,10 +23,11 @@ h1, h2, h3, h4, h5 {
 
 /* name */
 h1 {
-    font-size: 3.5em;
+    font-size: 3.8em;
     width: 250px;
     /*padding: 20px;*/
     line-height: 100%;
+    color: #eef701;
 }
 
 /* section headers */
@@ -42,7 +43,7 @@ h3 {
     margin-top: 50px;
     margin-bottom: 0px;    
     font-style: normal;
-    background-color: #00af8f;
+    background-color: #eef701;
     color: black;
 }
 
@@ -135,11 +136,11 @@ strong {
 }
 
 .es {
-    color: #006387;
+    color: #00a57c;
 }
 
 .en {
-    color: #00876e;
+    color: #38ce02;
 }
 
 .news {
