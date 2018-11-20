@@ -6,7 +6,7 @@ div {
 body {
     font-family: 'Work Sans', sans-serif;
     font-weight: 300;
-    font-size: 0.8em;
+    font-size: 1.2em;
     color: black;
     line-height: 120%;
     background-color: white;
@@ -17,14 +17,14 @@ h1, h2, h3, h4, h5 {
     font-weight: 400;
     background-color: #fc8aee;  
     padding: 10px;
-    width: 250px;   
+    width: 450px;   
     /*display: block;*/
 }
 
 /* name */
 h1 {
     font-size: 3.8em;
-    width: 250px;
+    width: 350px;
     /*padding: 20px;*/
     line-height: 100%;
     color: #eef701;
