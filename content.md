@@ -33,7 +33,6 @@
 ### I am currently working on
 
 <div class="carousel">
-    <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_1.png"></div>
     <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_2.png"></div>
 </div>
 
