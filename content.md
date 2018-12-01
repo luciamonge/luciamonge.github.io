@@ -30,7 +30,7 @@
 
 ## Works <a name="works"></a>
 
-### I am currently working on
+### The Movements and Habits of Climbing Plants
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_2.png"></div>
@@ -70,10 +70,7 @@ Mi niño, your dry spell, their waterfall is a long-term project that looks into
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_mycelliummegaphone.png"></div>
-    <div><img data-lazy="images/LMonge_T4MKS_score2.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_1.png"></div>
-    <div><img data-lazy="images/LMonge_T4MKS_score1b.png"></div>
-    <div><img data-lazy="images/LMonge_T4MKS_score3.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_3.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_2.png"></div>
 </div>
@@ -164,10 +161,27 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_BodyParts_2iz.png"></div>
     <div><img data-lazy="images/LuciaMonge_BodyParts_3.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
-    <div><img data-lazy="images/LuciaMonge_BodyParts_4b.png"></div>
+    <div><img data-lazy="images/LuciaMonge_BodyParts_milkteeth.png"></div>
+    <div><img data-lazy="images/LuciaMonge_BodyParts_crosssectionthumb.png"></div>
 </div>
 
-I make body parts. 
+### Sculpture
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_finalweb3.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS_5.png"></div>
+    <div><img data-lazy="images/LuciaMonge_escultura_.png"></div>
+    <div><img data-lazy="images/LuciaMonge_escultura_Mudanza.png"></div>
+</div>
+
+
+
+### Drawing
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_dibujo_45.png"></div>
+</div>
+
 
 
 ## <a name="bio"></a>Bio
