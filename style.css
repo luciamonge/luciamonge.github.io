@@ -15,7 +15,7 @@ body {
 h1, h2, h3, h4, h5 {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
-    background-color: #fc8aee;  
+    background-color: #31c109;  
     padding: 10px;
     width: 450px;   
     /*display: block;*/
@@ -27,7 +27,8 @@ h1 {
     width: 350px;
     /*padding: 20px;*/
     line-height: 100%;
-    color: #eef701;
+    color:#eef701;
+    background-color: #fc8aee;
 }
 
 /* section headers */
@@ -136,11 +137,11 @@ strong {
 }
 
 .es {
-    color: #00a57c;
+    color: grey;
 }
 
 .en {
-    color: #38ce02;
+    color: black;
 }
 
 .news {
