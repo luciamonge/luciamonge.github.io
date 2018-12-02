@@ -159,10 +159,12 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_BodyParts_RSHA2.png"></div>
     <div><img data-lazy="images/LuciaMonge_BodyParts_2iz.png"></div>
-    <div><img data-lazy="images/LuciaMonge_BodyParts_3.png"></div>
-    <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
+    <div><img data-lazy="images/LuciaMonge_birchhand.png"></div>
     <div><img data-lazy="images/LuciaMonge_BodyParts_milkteeth.png"></div>
     <div><img data-lazy="images/LuciaMonge_BodyParts_crosssectionthumb.png"></div>
+    <div><img data-lazy="images/LuciaMonge_LonelyNeuron1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_LonelyNeuron2.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
 </div>
 
 ### Sculpture
@@ -182,6 +184,7 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LMonge_Shrooms.png"></div>
     <div><img data-lazy="images/LuciaMonge_dibujo_45.png"></div>
     <div><img data-lazy="images/LMonge_NosotrosDibujo.png"></div>
+    <div><img data-lazy="images/LMonge_MuyBien.png"></div>
 </div>
 
 
