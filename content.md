@@ -179,7 +179,9 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
 ### Drawing
 
 <div class="carousel">
+    <div><img data-lazy="images/LMonge_Shrooms.png"></div>
     <div><img data-lazy="images/LuciaMonge_dibujo_45.png"></div>
+    <div><img data-lazy="images/LMonge_NosotrosDibujo.png"></div>
 </div>
 
 
@@ -206,5 +208,5 @@ lucia [arroba] plantonmovil [punto] org
 
 
 <div class="carousel">
-    <div><img data-lazy="images/LuciaMonge_finalweb3.png"></div>
+    <div><img data-lazy="images/Monge_Tito.png"></div>
 </div>
