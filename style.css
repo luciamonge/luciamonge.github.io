@@ -44,7 +44,7 @@ h3 {
     margin-top: 50px;
     margin-bottom: 0px;    
     font-style: normal;
-    background-color: #eef701;
+    background-color: #d3ef00;
     color: black;
 }
 
@@ -93,11 +93,11 @@ div#decorationright {
     top:-2;
     right:0;
     position: fixed;
-    height: 400px;
-    width: 400px;
+    height: 300px;
+    width: 300px;
     z-index: 0;
     pointer-events: none;
-    background: url('images/web_sidekick_pink_right.png') top right no-repeat;
+    background: url('images/web_sidekick_pinkright.png') top right no-repeat;
 }
 
 div#decorationleft {
