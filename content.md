@@ -167,6 +167,7 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
 </div>
 
+
 ### Arcadia artificial
 
 <div class="carousel">
@@ -178,6 +179,7 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Fondo1.png"></div>
 </div>
 
+
 ### Sculpture
 
 <div class="carousel">
@@ -186,7 +188,6 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_escultura_.png"></div>
     <div><img data-lazy="images/LuciaMonge_escultura_Mudanza.png"></div>
 </div>
-
 
 
 ### Drawing
@@ -199,6 +200,22 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
 </div>
 
 
+### Pañuelos de Despedida
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_choclo.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_rosa.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_cajas.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Rosalba.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_MariaTeresa.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Laura.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Lulu.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Isa.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Cristina.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_participantes.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Casa.png"></div>
+</div>
 
 ## <a name="bio"></a>Bio
 
