@@ -167,6 +167,17 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
 </div>
 
+### Arcadia artificial
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_M.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_X.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Eya.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_K.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Fondo1.png"></div>
+</div>
+
 ### Sculpture
 
 <div class="carousel">
