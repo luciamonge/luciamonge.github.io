@@ -179,6 +179,16 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Fondo1.png"></div>
 </div>
 
+### Primer Contacto
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_PrimerContacto_2.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PrimerContacto_1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PrimerContacto_4.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PrimerContacto_5.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PrimerContacto_6.png"></div>
+</div>
+
 
 ### Sculpture
 
@@ -216,6 +226,17 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_participantes.png"></div>
     <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Casa.png"></div>
 </div>
+
+
+### Mitin Gap
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_MitinGap_t1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_MitinGap_t2.png"></div>
+    <div><img data-lazy="images/LuciaMonge_MitinGap_t3.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_.png"></div>
+</div>
+
 
 ## <a name="bio"></a>Bio
 
