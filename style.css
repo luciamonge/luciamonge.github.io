@@ -85,7 +85,7 @@ div#container {
     max-width: 1024px;
     padding: 30px;
     z-index: 10;    
-    margin-bottom: 600px;
+    margin-bottom: 0px;
     margin-top: 15px;
 }
 
