@@ -38,6 +38,12 @@
 
 2018-ongoing
 
+Este proyecto comienza estudiando el libro de Charles Darwin "Movimientos y Hábitos de Plantas Trepadoras" y replicando algunos de sus experimentos para observar y registrar el movimiento de las plantas. Mis experimentos no son completamente idénticos a los suyos pero comparten a la observación como método y herramienta base. Este proyecto se enfoca en dos escalas y contextos distintos. Por un lado anota el crecimiento y revoluciones de tallos y zarcillos en plantas adentro de mi taller y por otro registra el movimiento de plantas enrrolladas con la infraestructura urbana. El primer escenario reduce variables ambientales y permite un enfoque en el movimiento espontáneo de distintas especies y de partes específicas de la planta. El segundo escenario se concentra justamente en la interacción entre el movimiento de la planta y su contexto y representa la negociación entre la planta, la ciudad y los otros seres vivos que por ahí se mueven.
+Las rejas y paredes por las que estas plantas trepan son particularmente relevantes pues este movimiento de las plantas que las trepa, enrrolla y cruza en varias direcciones vuelve a estas supuestas fronteras permeables.
+{: .es }
+
+/
+
 This (still untitled) project starts with Charles Darwin's text The Movements and Habits of Climbing Plants and replicates some of his experiments for observing and notating plant movement. Although my experiments are translations of his methods, tools, and techniques they share a base in observation. My project notes two different scales and contexts. One of my experiments marks the growth of particular shoots and tendrils in plants inside my studio and the other records the movement of plants intertwined with the urban infrastructure. The first scenario allows for a focus on the movement of specific plant parts and of the individuals themselves by reducing the amount of environmental variables. The second scenario focuses on precisely the movement that results from the changing environment and represents the negotiation between the plants, the built environment, and the other many living beings bustling on the streets.
 {: .en }
 
@@ -162,13 +168,12 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_birchhand.png"></div>
     <div><img data-lazy="images/LuciaMonge_BodyParts_milkteeth.png"></div>
     <div><img data-lazy="images/LuciaMonge_BodyParts_crosssectionthumb.png"></div>
-    <div><img data-lazy="images/LuciaMonge_LonelyNeuron1.png"></div>
     <div><img data-lazy="images/LuciaMonge_LonelyNeuron2.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
 </div>
 
 
-### Arcadia artificial
+### Arcadia Artificial
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_M.png"></div>
@@ -189,8 +194,12 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_PrimerContacto_6.png"></div>
 </div>
 
+Installation of plants connected to the human organ system, a drawing table with speakers and a pen attached to a contact microphone // 2013
 
-### Sculpture
+ This installation invited participants to spend some time drawing a plant in detail. Drawing requires observation and close attention. In this way the experience aimed to function as an initial contact with the chosen plant. The pen with which the drawings were made had a piezo-electric connected to it so each trace created a specific sound. The contact sounds between the pen, the paper, the observer's eye, and the plant were reproduced through speakers, recorded and later displayed next to the participants' drawings.
+{: .en }
+
+### escultura / sculpture
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_finalweb3.png"></div>
@@ -200,7 +209,7 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
 </div>
 
 
-### Drawing
+### drawing / dibujo
 
 <div class="carousel">
     <div><img data-lazy="images/LMonge_Shrooms.png"></div>
@@ -226,17 +235,25 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_participantes.png"></div>
     <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_Casa.png"></div>
 </div>
+Fabric, water-soluble and permanent markers, thread, appliqués, ribbons // 2008-2009
 
+A goodbye necessarily establishes an ending and therefore usually implies a “letting go” that is not always easy. The same way handkerchiefs were carried in-hand during goodbyes at ports, I propose this ritualization of a farewell on a personalized handkerchief. Using water as a means of transport participants disssolve images of the past they have inscribed on their piece of cloth. Color stains and patterns emerge as a vestige of what was lived, a sort of shroud marked with the presence it held. Whether this is a happy, sad, calm or furious goodbye, we also celebrated what is carried for the future with indeleble markers and embroidery.
+
+This project was carried out as a workshop/shared ritual in Mexico and Peru. These were held at different locations such as a museum, plazas, a home, a cultural centre and a women’s penitentiary.
+{: .en }
 
 ### Mitin Gap
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_MitinGap_t1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_MitinGap_i1.png"></div>
     <div><img data-lazy="images/LuciaMonge_MitinGap_t2.png"></div>
     <div><img data-lazy="images/LuciaMonge_MitinGap_t3.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_.png"></div>
 </div>
+[experimental] Conversations between people speaking in foreign languages // 2013-2015
 
+Participants were invited to engage in conversation with another person while each speaking in their mother tongue. They had to practice/attempt communication even thought they did not speak each other's language. Conversations were carried out in Mandarin, Spanish, French, Corean, Tibetan, and Arabic in different combinations. The dialog was revealed afterwards when the content was transcribed from the sound recordings into what was then the common ground; English. Video and sound recordings document these encounters. The frame however reveals very little of the speakers and rather centers in the space in between them.
+{: .en }
 
 ## <a name="bio"></a>Bio
 
@@ -259,6 +276,4 @@ lucia [at] plantonmovil [dot] org
 lucia [arroba] plantonmovil [punto] org
 
 
-<div class="carousel">
-    <div><img data-lazy="images/Monge_Tito.png"></div>
-</div>
+<img src="images/Monge_Tito.png" style="margin-bottom: 0px" />
