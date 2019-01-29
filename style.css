@@ -12,6 +12,12 @@ body {
     background-color: white;
 }
 
+@media screen and (max-width: 899px) {
+    body {
+        font-size: 1em;
+    }
+}
+
 h1, h2, h3, h4, h5 {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -83,32 +89,39 @@ div#container {
     position: relative;
     margin: auto;
     max-width: 1024px;
-    padding: 30px;
     z-index: 10;    
     margin-bottom: 0px;
     margin-top: 15px;
 }
 
-div#decorationright {
-    top:-2;
-    right:0;
-    position: fixed;
-    height: 300px;
-    width: 300px;
-    z-index: 0;
-    pointer-events: none;
-    background: url('images/web_sidekick_pinkright.png') top right no-repeat;
-}
+@media screen and (min-width: 900px) {
 
-div#decorationleft {
-    top:0;
-    left:0;
-    position: fixed;
-    height: 300px;
-    width: 300px;
-    z-index: 10;
-    pointer-events: none;
-    background: url('images/web_sidekick_pinkleft.png') top left no-repeat;
+    div#container {
+        padding: 30px;
+    }
+
+    div#decorationright {
+        top:-2;
+        right:0;
+        position: fixed;
+        height: 300px;
+        width: 300px;
+        z-index: 0;
+        pointer-events: none;
+        background: url('images/web_sidekick_pinkright.png') top right no-repeat;
+    }
+
+    div#decorationleft {
+        top:0;
+        left:0;
+        position: fixed;
+        height: 300px;
+        width: 300px;
+        z-index: 10;
+        pointer-events: none;
+        background: url('images/web_sidekick_pinkleft.png') top left no-repeat;
+    }
+
 }
 
 hr {
