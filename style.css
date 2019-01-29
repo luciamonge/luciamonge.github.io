@@ -1,3 +1,7 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
+
 div {
     box-sizing: border-box;
     outline: none;
@@ -14,7 +18,7 @@ body {
 
 @media screen and (max-width: 899px) {
     body {
-        font-size: 1em;
+        font-size: .8em;
     }
 }
 
