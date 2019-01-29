@@ -17,14 +17,14 @@ h1, h2, h3, h4, h5 {
     font-weight: 400;
     background-color: #31c109;  
     padding: 10px;
-    width: 450px;   
+    max-width: 450px;   
     /*display: block;*/
 }
 
 /* name */
 h1 {
     font-size: 3.8em;
-    width: 350px;
+    max-width: 350px;
     /*padding: 20px;*/
     line-height: 100%;
     color:#eef701;
