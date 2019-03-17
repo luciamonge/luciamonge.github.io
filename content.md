@@ -20,7 +20,6 @@
 • [Biodesign: From Inspiration to Integration](https://naturelab.risd.edu/80-year-celebration/) (curation) RISD Nature Lab, August 2018  
 • [Plantón Móvil at Nocturnal Creatures](http://www.whitechapelgallery.org/nocturnal-creatures/) (workshop+performance) Whitechapel Gallery, July 2018  
 • Plantón Móvil at School Residency (workshop+performance) Whitechapel Gallery, June 2018  
-• Las Plantas y su Movimiento (writing) Revista Ansible, Junio 2018  
 • Open Engagement (talk) Queens Museum, May 2018)  
 • Learning across generations (talk) RISD Museum, May 2018  
 • Ruderal Ecologies: Grounds for Change (workshop) The Sanctuary for Independent Media, Troy, April 2018  
