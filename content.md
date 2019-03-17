@@ -5,14 +5,16 @@
 ## News
 
 #### Current | Upcoming
-• [Paysagisme: Art & Ecology](https://www.brown.edu/academics/literary-arts/art-and-ecological-responsibility) (talk) Brown University, Nov 1st, 2018  
-• [Eliza Moore Fellowship](https://www.osgf.org/blog/early-career-fellowships) (award) Oak Spring Garden Foundation, July—Dec 2018  
-• Visual Arts Department (teaching) Brown University, 2017—ongoing  
-• [examples to follow! expeditions in aesthetics and sustainability](http://www.z-n-e.info/) (exhibition) Traveling exhibition  
+• [Conversatorio Muro: Colaboraciones y Colectividades en Proyectos Artísticos](http://espacio.fundaciontelefonica.com.pe/evento/muro-sobre-proyectos-artisticos-participativos/) (panel) Espacio Fundación Telefónica, Lima, 23 de marzo
+• [Socrates Annual Farewell Fete](http://socratessculpturepark.org/program/the-socrates-annual-farewell-fete/) (performance) Socrates Sculpture Park, Long Island City, March 24th
+• [Grafter's for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30
+• Visual Art Department (teaching) Brown University, 2017—ongoing  
 {: .news}
 
 
-#### Recent
+#### Recent 
+• [Eliza Moore Fellowship](https://www.osgf.org/blog/early-career-fellowships) (award) Oak Spring Garden Foundation, July—Dec 2018 
+• [Paysagisme: Art & Ecology](https://www.brown.edu/academics/literary-arts/art-and-ecological-responsibility) (talk) Brown University, Nov 1st, 2018 
 • [The Cultural Frontline](https://www.bbc.co.uk/programmes/w3cswp6m) (interview) BBC, October 2018  
 • [Watershed](https://www.wits.ac.za/news/latest-news/research-news/2018/2018-05/a-watershed-in-arts-and-science.html) (exhibition) University of Witwatersrand, September 2018  
 • [Biodesign: From Inspiration to Integration](https://naturelab.risd.edu/80-year-celebration/) (curation) RISD Nature Lab, August 2018  
@@ -76,9 +78,10 @@ Mi niño, your dry spell, their waterfall is a long-term project that looks into
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_mycelliummegaphone.png"></div>
-    <div><img data-lazy="images/LMonge_T4MKS_1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_T4MKS_Tambopata.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_3.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_2.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS_1.png"></div>
 </div>
 
 Mixed media // 2017-ongoing
@@ -112,7 +115,7 @@ El título de esta pieza alude al reconocimiento de otros seres vivos como parte
 /
 
 Nosotros is the word in Spanish for us or we. If broken down into nos + otros, it reads something similar to our + others. [Nos]otros then stands for our others; as an extended community that recognizes other living forms as part of our own kin[d]. Finding balance in and with our environment is a continuous negotiation, an everyday practice. Helping this group of limbs stand alludes to that practice.
-{: .en }
+
 This project was exhibited in 2015 at RISD’s graduation thesis show in Providence, and at Flux Factory, NY. In 2016 it was recreated with participants at a workshop at Bosse & Baum Gallery for the exhibition Arcadia Artificial, London.
 {: .en }
 
@@ -266,7 +269,7 @@ Monge has exhibited widely in South America, Europe, and the United States as we
 She currently lives and works in Providence, Rhode Island where she teaches at Brown University and works at RISD Nature Lab as a coordinator and researcher for a National Science Foundation grant. She is also an affiliated researcher at the Centre for Water Research and Development in the University of Witwatersrand in Johannesburg. Lucia holds a BFA from Universidad Católica del Peru, and a MFA from Rhode Island School of Design.
 {: .en }
 
-CV
+[Curriculum Vitae](LuciaMonge_CV2019web.pdf)
 
 
 ## <a name="contacto"></a>Contacto
