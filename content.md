@@ -5,28 +5,21 @@
 ## News
 
 #### Current | Upcoming
-• [Conversatorio Muro: Colaboraciones y Colectividades en Proyectos Artísticos](http://espacio.fundaciontelefonica.com.pe/evento/muro-sobre-proyectos-artisticos-participativos/) (panel) Espacio Fundación Telefónica, Lima, 23 de marzo  
-• [Socrates Annual Farewell Fete](http://socratessculpturepark.org/program/the-socrates-annual-farewell-fete/) (performance) Socrates Sculpture Park, Long Island City, March 24th  
-• [Grafter's for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30  
+• [Blue Sky: Agility and the Possible in a Warming World](https://www.brown.edu/academics/institute-environment-society/agenda-2) (panel) Institute at Brown University for Environment & Society, Providence, April 10-12  
+• [Grafter's for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30      
+• [Socrates Annual Farewell Fete](http://socratessculpturepark.org/program/the-socrates-annual-farewell-fete/) (performance) Socrates Sculpture Park, Long Island City, March 24th    
+• [Conversatorio Muro: Colaboraciones y Colectividades en Proyectos Artísticos](http://espacio.fundaciontelefonica.com.pe/evento/muro-sobre-proyectos-artisticos-participativos/) (panel) Espacio Fundación Telefónica, Lima, 23 de marzo     
 • Studio Foundation and 3D Foundations  which includes a semester-long exploration on biomaterials with students! (teaching) Visual Art Department, Brown University, 2017—ongoing    
 {: .news}
 
 
 #### Recent 
-• [Eliza Moore Fellowship](https://www.osgf.org/blog/early-career-fellowships) (award) Oak Spring Garden Foundation, July—Dec 2018   
-• [Paysagisme: Art & Ecology](https://www.brown.edu/academics/literary-arts/art-and-ecological-responsibility) (talk) Brown University, Nov 1st, 2018   
+• [Eliza Moore Fellowship](https://www.osgf.org/blog/early-career-fellowships) (award) Oak Spring Garden Foundation, July—Dec 2018     
 • [The Cultural Frontline](https://www.bbc.co.uk/programmes/w3cswp6m) (interview) BBC, October 2018  
 • [Watershed](https://www.wits.ac.za/news/latest-news/research-news/2018/2018-05/a-watershed-in-arts-and-science.html) (exhibition) University of Witwatersrand, September 2018  
 • [Biodesign: From Inspiration to Integration](https://naturelab.risd.edu/80-year-celebration/) (curation) RISD Nature Lab, August 2018  
 • [Plantón Móvil at Nocturnal Creatures](http://www.whitechapelgallery.org/nocturnal-creatures/) (workshop+performance) Whitechapel Gallery, July 2018  
 • Plantón Móvil at School Residency (workshop+performance) Whitechapel Gallery, June 2018  
-• Open Engagement (talk) Queens Museum, May 2018   
-• Learning across generations (talk) RISD Museum, May 2018    
-• Ruderal Ecologies: Grounds for Change (workshop) The Sanctuary for Independent Media, Troy, April 2018  
-• Education Partnership Grant (award) Rhode Island State Council on the Arts, March 2018  
-• [Interspecies Collaboration in the Walking Forest](gps.psi-web.org/issue-1-2/planton-movil-2/) (writing) Global Performance Studies, January 2018  
-• Guapamacátaro Arts & Ecology (residency) Mexico, January 2018  
-{: .news}
 
 
 ## Works <a name="works"></a>
