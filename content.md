@@ -6,7 +6,7 @@
 
 #### Current | Upcoming
 • [Blue Sky: Agility and the Possible in a Warming World](https://www.brown.edu/academics/institute-environment-society/agenda-2) (panel) Institute at Brown University for Environment & Society, Providence, April 10-12  
-• [Grafter's for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30      
+• [Grafters for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30      
 • [Socrates Annual Farewell Fete](http://socratessculpturepark.org/program/the-socrates-annual-farewell-fete/) (performance) Socrates Sculpture Park, Long Island City, March 24th    
 • [Conversatorio Muro: Colaboraciones y Colectividades en Proyectos Artísticos](http://espacio.fundaciontelefonica.com.pe/evento/muro-sobre-proyectos-artisticos-participativos/) (panel) Espacio Fundación Telefónica, Lima, 23 de marzo     
 • Studio Foundation and 3D Foundations  which includes a semester-long exploration on biomaterials with students! (teaching) Visual Art Department, Brown University, 2017—ongoing    
