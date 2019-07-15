@@ -5,6 +5,8 @@
 ## News
 
 #### Current | Upcoming
+• [Fruiting Bodies:Experiments in Fungal Inoculation and Mycoremediation](https://www.eventbrite.com/e/fruiting-bodies-experiments-in-fungal-inoculation-and-mycoremediation-tickets-63402116437) (workshop with Chris Kennedy and Chloe Zimmerman) Genspace, NYC July 21 y 26  
+• I will be sharing process and updates on my Re-performing Darwin project at Oak Spring Garden Foundation. In conjunction with Tony Willis and for the OSGF's Curated Artist in Residence program (presentation) Oak Spring Garden Foundation, June 5    
 • [Blue Sky: Agility and the Possible in a Warming World](https://www.brown.edu/academics/institute-environment-society/agenda-2) (panel) Institute at Brown University for Environment & Society, Providence, April 10-12  
 • [Grafters for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30      
 • [Socrates Annual Farewell Fete](http://socratessculpturepark.org/program/the-socrates-annual-farewell-fete/) (performance) Socrates Sculpture Park, Long Island City, March 24th    
@@ -24,7 +26,7 @@
 
 ## Works <a name="works"></a>
 
-### The Movements and Habits of Climbing Plants
+### Re-Performing Darwin 
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_2.png"></div>
@@ -69,11 +71,12 @@ Mi niño, your dry spell, their waterfall is a long-term project that looks into
 ### Tools for many kinds of selves
 
 <div class="carousel">
-    <div><img data-lazy="images/LuciaMonge_mycelliummegaphone.png"></div>
-    <div><img data-lazy="images/LuciaMonge_T4MKS_Tambopata.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS_7.png"></div>
+    <div><img data-lazy="images/LuciaMonge_myceliummegaphone.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_3.png"></div>
-    <div><img data-lazy="images/LMonge_T4MKS_2.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_1.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS_2.png"></div>
 </div>
 
 Mixed media // 2017-ongoing
