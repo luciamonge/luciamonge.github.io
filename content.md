@@ -6,7 +6,7 @@
 
 #### Current | Upcoming
 • Artist talk at “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
-• Artist talk at "Art & Ecology: Materials Matter" course, Lewis & CLark College, Oct 22  
+• Artist talk at "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
 • [Plantón Móvil at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
 • [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
 • [Plantón Móvil: Plant+Human Connectors](https://queensmuseum.org/events/planton-movil-workshop-ii) (workshop) Queens Museum, Aug 15th 2-5pm    
