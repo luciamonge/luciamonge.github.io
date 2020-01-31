@@ -5,23 +5,18 @@
 ## News
 
 #### Current | Upcoming
-• Artist talk at “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
-• Artist talk at "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
-• [Plantón Móvil at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
-• [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
-• [Plantón Móvil: Plant+Human Connectors](https://queensmuseum.org/events/planton-movil-workshop-ii) (workshop) Queens Museum, Aug 15th 2-5pm    
-• [Plantón Móvil: Introduction to Plants and Plant Movement](https://queensmuseum.org/events/planton-movil-workshop-i) (workshop) Queens Museum, Aug 8th 2-5pm        
-• [Fruiting Bodies:Experiments in Fungal Inoculation and Mycoremediation](https://www.eventbrite.com/e/fruiting-bodies-experiments-in-fungal-inoculation-and-mycoremediation-tickets-63402116437) (workshop with Chris Kennedy and Chloe Zimmerman) Genspace, NYC July 21 y 26     
-{: .news}
+• "Desbosque: desenterrando señales" (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, Mar 26—May 31      
+• Xin Liu and I are sending potato seeds to low earth orbit with MIT's [Earthlings open call](https://www.media.mit.edu/posts/earthling-sei-open-call/) and as part of our project "Unearthing Futures: the decolonizing potential of potatoes", Mar 31     
 
 
 #### Recent 
-• Re-performing Darwin (presentation with Tony Willis) Oak Spring Garden Foundation, June 5    
-• [Blue Sky: Agility and the Possible in a Warming World](https://www.brown.edu/academics/institute-environment-society/agenda-2) (panel) Institute at Brown University for Environment & Society, Providence, April 10-12  
-• [Grafters for Change](https://calendar.colgate.edu/event/grafters_x_change_branches_and_networks) (workshop) Colgate University, March 29-30      
-• [Socrates Annual Farewell Fete](http://socratessculpturepark.org/program/the-socrates-annual-farewell-fete/) (performance) Socrates Sculpture Park, Long Island City, March 24th    
-• [Conversatorio Muro: Colaboraciones y Colectividades en Proyectos Artísticos](http://espacio.fundaciontelefonica.com.pe/evento/muro-sobre-proyectos-artisticos-participativos/) (panel) Espacio Fundación Telefónica, Lima, 23 de marzo     
-• Studio Foundation and 3D Foundations  which included a semester-long exploration on biomaterials with students (teaching) Visual Art Department, Brown University, 2017—May 2019   
+• Artist talk at “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
+• Artist talk at "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
+• [Plantón Móvil at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
+• [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre    
+• [Plantón Móvil: Introduction to Plants and Plant Movement](https://queensmuseum.org/events/planton-movil-workshop-i) (workshop) Queens Museum, Aug 8th 2-5pm        
+• [Fruiting Bodies:Experiments in Fungal Inoculation and Mycoremediation](https://www.eventbrite.com/e/fruiting-bodies-experiments-in-fungal-inoculation-and-mycoremediation-tickets-63402116437) (workshop with Chris Kennedy and Chloe Zimmerman) Genspace, NYC July 21 y 26     
+{: .news} 
    
 
 
