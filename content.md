@@ -26,11 +26,16 @@
 ### Fruiting Bodies
 
 <div class="carousel">
-    <div><img data-lazy="images/LMonge_FruitingBodies_cast.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.jpg"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_cloning.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cast2.jpg"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cast.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_agarsculpture.JPG"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_intention.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_digging.JPG"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_agarcasts.JPG"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_burial.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_1.jpg"></div>
 </div>
 
 2019-ongoing  
