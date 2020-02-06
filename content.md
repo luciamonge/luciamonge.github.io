@@ -23,26 +23,6 @@
 
 ## Works <a name="works"></a>
 
-### Fruiting Bodies
-
-<div class="carousel">
-    <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.jpg"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_cloning.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_cast2.jpg"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_cast.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_agarsculpture.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_intention.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_digging.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_agarcasts.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_burial.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_1.jpg"></div>
-</div>
-
-2019-ongoing  
-Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, exploring the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans. 
-: .en }
-
-
 ### Tools for many kinds of selves
 
 <div class="carousel">
@@ -64,6 +44,25 @@ I believe sculpture can be a sort of walking cane; a tool that becomes a physica
 
 I have been making sculptures that take on the form of speculative/prosthetic/por qué no/what-if tools meant to be used by small groups of people. These tools and the accompanying scores are influenced by mycelial thinking and invite to observe and record the thinking and action that emerge from attention to other ways of being (to each other). 
 {: .en }
+
+### Fruiting Bodies
+
+<div class="carousel">
+    <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.jpg"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cloning.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cast2.jpg"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cast.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_agarsculpture.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_intention.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_digging.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_agarcasts.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_burial.JPG"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_1.jpg"></div>
+</div>
+
+2019-ongoing  
+Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, exploring the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans. 
+: .en }
 
 
 ### Re-Performing Darwin 
