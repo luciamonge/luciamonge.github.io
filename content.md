@@ -61,8 +61,14 @@ I have been making sculptures that take on the form of speculative/prosthetic/po
 </div>
 
 2019-ongoing  
-Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, exploring the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans. 
-: .en }
+
+<a id="fruiting_description_button" href="javascript:toggle('fruiting_description')">TEXT</a><br />
+
+<span class="fruiting_description en" style="display:none;">
+Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, exploring the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans.
+</span>
+
+
 
 
 ### Re-Performing Darwin 
@@ -73,18 +79,20 @@ Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is
 
 2018-ongoing
 
+<a id="darwin_description_button" href="javascript:toggle('darwin_description')">TEXT</a><br />
+
+<span class="darwin_description es" style="display:none;">
 Este proyecto comienza estudiando el libro de Charles Darwin "Movimientos y Hábitos de Plantas Trepadoras" y replicando algunos de sus experimentos para observar y registrar el movimiento de las plantas. Mis experimentos no son completamente idénticos a los suyos pero comparten a la observación como método y herramienta base. Este proyecto se enfoca en dos escalas y contextos distintos. Por un lado anota el crecimiento y revoluciones de tallos y zarcillos en plantas adentro de mi taller y por otro registra el movimiento de plantas enrrolladas con la infraestructura urbana. El primer escenario reduce variables ambientales y permite un enfoque en el movimiento espontáneo de distintas especies y de partes específicas de la planta. El segundo escenario se concentra justamente en la interacción entre el movimiento de la planta y su contexto y representa la negociación entre la planta, la ciudad y los otros seres vivos que por ahí se mueven.
 Las rejas y paredes por las que estas plantas trepan son particularmente relevantes pues este movimiento de las plantas que las trepa, enrrolla y cruza en varias direcciones vuelve a estas supuestas fronteras permeables.
-{: .es }
+</span>
 
-/
-
+<span class="darwin_description en" style="display:none;">
 This (still untitled) project starts with Charles Darwin's text The Movements and Habits of Climbing Plants and replicates some of his experiments for observing and notating plant movement. Although my experiments are translations of his methods, tools, and techniques they share a base in observation. My project notes two different scales and contexts. One of my experiments marks the growth of particular shoots and tendrils in plants inside my studio and the other records the movement of plants intertwined with the urban infrastructure. The first scenario allows for a focus on the movement of specific plant parts and of the individuals themselves by reducing the amount of environmental variables. The second scenario focuses on precisely the movement that results from the changing environment and represents the negotiation between the plants, the built environment, and the other many living beings bustling on the streets.
-{: .en }
+</span>
 
+<span class="darwin_description en" style="display:none;">
 The fences that these climbers creep on have a key role in this work as well. It is this specific type of movement that weaves permeability into the border.
-{: .en }
-
+</span>
 
 
 ### Mi niño, your dryspell, their waterfall

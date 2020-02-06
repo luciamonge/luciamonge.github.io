@@ -32,6 +32,20 @@
     <link href="https://fonts.googleapis.com/css?family=Raleway:700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Work+Sans:200,300,400" rel="stylesheet">
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129300159-1"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+    <script>
+        function toggle(element) {
+            let e = $('.' + element)
+            let b = $('#' + element + '_button').html('-')
+            if (e.is(":visible")) {
+                e.hide()
+                b.html('TEXT')
+            } else {
+                e.show()
+                b.html('-')
+            }
+        }
+    </script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
