@@ -9,16 +9,14 @@
 • Xin Liu and I are sending potato seeds to low earth orbit with MIT's [Earthlings open call](https://www.media.mit.edu/posts/earthling-sei-open-call/) and as part of our project "Unearthing Futures: the decolonizing potential of potatoes", Mar 31     
 
 
-#### Recent 
+#### Reciente 
+• [El Plantón Móvil de Lucia Monge](http://www.iech-conicet.gob.ar/novedades/3872/) por Víctor Vich en "Las humanidades por venir: políticas y debates en el siglo XXI" Sandra Contreras y José Goity. Rosario: Humanidades y Artes Ediciones, Dec 2019  
 • Artist talk at “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
 • Artist talk at "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
 • [Plantón Móvil at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
-• [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre    
-• [Plantón Móvil: Introduction to Plants and Plant Movement](https://queensmuseum.org/events/planton-movil-workshop-i) (workshop) Queens Museum, Aug 8th 2-5pm        
-• [Fruiting Bodies:Experiments in Fungal Inoculation and Mycoremediation](https://www.eventbrite.com/e/fruiting-bodies-experiments-in-fungal-inoculation-and-mycoremediation-tickets-63402116437) (workshop with Chris Kennedy and Chloe Zimmerman) Genspace, NYC July 21 y 26     
-{: .news} 
+• [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
+• Premio de Producción Artística para el Colectivo FIBRA (award) Ministerio de Cultura del Perú, Lima 20 de setiembre   
    
-
 
 
 ## Works <a name="works"></a>
@@ -39,11 +37,15 @@ Mixed media // 2017-ongoing
 "Ways of being are emergent effects of encounters" Anna Tsing
 {: .en }
 
-I believe sculpture can be a sort of walking cane; a tool that becomes a physical manifestation of the distance between ourselves and everything around us. It represents the space in-between and, at the same time, may transfer touch serving as a conductor for contact.
-{: .en }
+<a id="tools_description_button" href="javascript:toggle('tools_description')">TEXT</a><br />
 
+<span class="tools_description en" style="display:none;">
+I believe sculpture can be a sort of walking cane; a tool that becomes a physical manifestation of the distance between ourselves and everything around us. It represents the space in-between and, at the same time, may transfer touch serving as a conductor for contact.
+</span>
+
+<span class="tools_description en" style="display:none;">
 I have been making sculptures that take on the form of speculative/prosthetic/por qué no/what-if tools meant to be used by small groups of people. These tools and the accompanying scores are influenced by mycelial thinking and invite to observe and record the thinking and action that emerge from attention to other ways of being (to each other). 
-{: .en }
+</span>
 
 ### Fruiting Bodies
 
@@ -107,14 +109,16 @@ The fences that these climbers creep on have a key role in this work as well. It
 
 2018-ongoing
 
+<a id="agua_description_button" href="javascript:toggle('agua_description')">TEXT</a><br />
+
+<span class="agua_description es" style="display:none;">
 Este es un proyecto de largo plazo que investiga las estrategias de plantas desérticas para recolectar y guardar agua. Las adaptaciones morfológicas de estas plantas informan exploraciones en escultura para re-imaginar herramientas humanas con funciones similares. Observar la manera en la que las plantas enfrentan la falta de agua es un filtro para repensar la manera en la que lidiamos con el recurso en nuestra vida cotidiana. El diseño de nuestras herramientas y sistemas habla de nuestra relación con el agua.
 Mi investigación ha comenzado con especies endémicas de Sudáfrica y Perú. Con el tiempo incorporará a otras especies de plantas y regiones.
-{: .es }
+</span>
 
-/
-
+<span class="agua_description en" style="display:none;">
 Mi niño, your dry spell, their waterfall is a long-term project that looks into the ways in which desert plants collect and conserve water to re-think and re-shape human tools designed for similar tasks. It begins with plant species endemic to deserts in South Africa and Peru and will later expand to other parts of the world. These plant's morphological adaptations inform sculptural explorations that produce natural-cultural artifacts and speculative water systems. To observe how plants face the challenge of water scarcity serves as a lens to revisit the way humans handle water and organize its distribution on an everyday basis.
-{: .en }
+</span>
 
 
 
@@ -130,18 +134,23 @@ Mi niño, your dry spell, their waterfall is a long-term project that looks into
 
 Found tree limbs + second hand shoes // 2015, 2016
 
+<a id="nosotros_description_button" href="javascript:toggle('nosotros_description')">TEXT</a><br />
+
+<span class="nosotros_description es" style="display:none;">
 El título de esta pieza alude al reconocimiento de otros seres vivos como parte de nuestra comunidad. La palabra nosotros incluye a 'otros' en la unidad del 'yo'. Sugiere la presencia de lo 'otro' en los límites del 'uno' mismo y de esta manera la extensión de los bordes que comprenden lo que yo soy y de cuál es mi comunidad. Sin embargo la noción del 'nosotros' no es fija. Encontrar un balance en y con otros seres vivos y nuestro medio ambiente es una negociación constante, una práctica diaria. Buscar que este grupo de ramas recogidas por la ciudad alcancen el equilibrio suficiente para pararse alude a esa práctica.
-{: .es }
+</span>
 
-/
-
+<span class="nosotros_description en" style="display:none;">
 Nosotros is the word in Spanish for us or we. If broken down into nos + otros, it reads something similar to our + others. [Nos]otros then stands for our others; as an extended community that recognizes other living forms as part of our own kin[d]. Finding balance in and with our environment is a continuous negotiation, an everyday practice. Helping this group of limbs stand alludes to that practice.
+</span>
 
+<span class="nosotros_description en" style="display:none;">
 This project was exhibited in 2015 at RISD’s graduation thesis show in Providence, and at Flux Factory, NY. In 2016 it was recreated with participants at a workshop at Bosse & Baum Gallery for the exhibition Arcadia Artificial, London.
-{: .en }
+</span>
 
+<span class="nosotros_description es" style="display:none;">
 Fotos: Forrest Kelley, Damian Griffiths and Eugenia Ivanissevich
-
+</span>
 
 
 ### Plantón Móvil
@@ -161,30 +170,35 @@ Fotos: Forrest Kelley, Damian Griffiths and Eugenia Ivanissevich
 Plants, trees and people // 2010-ongoing  
 [http://www.plantonmovil.org](http://www.plantonmovil.org)
 
+<a id="planton_description_button" href="javascript:toggle('planton_description')">TEXT</a><br />
+
+<span class="planton_description es" style="display:none;">
 ¿Cómo sería encontrarse un bosque móvil circulando entre el tráfico, los edificios y la gente apurada?
-{: .es }
-
 Todos los días crece el cemento y disminuye el verde. Los árboles, arbustos, flores y demás plantas de nuestra ciudad quedan irremediablemente en algún rincón de la ciudad: casi invisibles y totalmente inmóviles. Son arrimados, asfixiados y hasta convertidos en basurero. Es entonces como un pequeño grupo de plantas se junta y sale a circular entre los micros y combis de Lima. Un pequeño bosque que sale pacíficamente a marchar por su lugar en la ciudad.
-{: .es }
+</span>
 
+<span class="planton_description es" style="display:none;">
 Al final de cada recorrido un grupo de las plantas recorridas sirven para crear una área verde en el espacio público.
-{: .es }
+</span>
 
-/
-
+<span class="planton_description en" style="display:none;">
 “Plantón” is the word in Spanish for a sapling. It is also the word for a sit-in. This project takes on both: the green to be planted and the peaceful protest. It is about giving plants and trees the opportunity to walk down the streets of their city. At the end of each walk, we co-create community public green areas.
-{: .en }
+</span>
 
+<span class="planton_description en" style="display:none;">
 I have organized “walking forest” performances annually since 2010. Plantón Móvil is about moving-with as a form of solidarity. I began thinking humans were lending their mobility to plants—now I understand that we gain much from borrowing their slowness as well. We learn in our attempt to find common speed.
-{: .en }
+</span>
 
+<span class="planton_description en" style="display:none;">
 More on Plantón Móvil on the project’s website: [http://www.plantonmovil.org](http://www.plantonmovil.org)
-{: .en }
+</span>
 
-
+<span class="planton_description es" style="display:none;">
 Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanissevich, Jorge Ochoa
+</span>
 
-### Body parts
+
+### Body partes
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_BodyParts_RSHA2.png"></div>
@@ -220,8 +234,11 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
 
 Installation of plants connected to the human organ system, a drawing table with speakers and a pen attached to a contact microphone // 2013
 
+<a id="primer_description_button" href="javascript:toggle('primer_description')">TEXT</a><br />
+
+<span class="primer_description en" style="display:none;">
  This installation invited participants to spend some time drawing a plant in detail. Drawing requires observation and close attention. In this way the experience aimed to function as an initial contact with the chosen plant. The pen with which the drawings were made had a piezo-electric connected to it so each trace created a specific sound. The contact sounds between the pen, the paper, the observer's eye, and the plant were reproduced through speakers, recorded and later displayed next to the participants' drawings.
-{: .en }
+</span>
 
 ### escultura / sculpture
 
@@ -261,10 +278,15 @@ Installation of plants connected to the human organ system, a drawing table with
 </div>
 Fabric, water-soluble and permanent markers, thread, appliqués, ribbons // 2008-2009
 
-A goodbye necessarily establishes an ending and therefore usually implies a “letting go” that is not always easy. The same way handkerchiefs were carried in-hand during goodbyes at ports, I propose this ritualization of a farewell on a personalized handkerchief. Using water as a means of transport participants disssolve images of the past they have inscribed on their piece of cloth. Color stains and patterns emerge as a vestige of what was lived, a sort of shroud marked with the presence it held. Whether this is a happy, sad, calm or furious goodbye, we also celebrated what is carried for the future with indeleble markers and embroidery.
+<a id="panuelos_description_button" href="javascript:toggle('panuelos_description')">TEXT</a><br />
 
+<span class="panuelos_description en" style="display:none;">
+A goodbye necessarily establishes an ending and therefore usually implies a “letting go” that is not always easy. The same way handkerchiefs were carried in-hand during goodbyes at ports, I propose this ritualization of a farewell on a personalized handkerchief. Using water as a means of transport participants disssolve images of the past they have inscribed on their piece of cloth. Color stains and patterns emerge as a vestige of what was lived, a sort of shroud marked with the presence it held. Whether this is a happy, sad, calm or furious goodbye, we also celebrated what is carried for the future with indeleble markers and embroidery.
+</span>
+
+<span class="panuelos_description en" style="display:none;">
 This project was carried out as a workshop/shared ritual in Mexico and Peru. These were held at different locations such as a museum, plazas, a home, a cultural centre and a women’s penitentiary.
-{: .en }
+</span>
 
 ### Mitin Gap
 
@@ -276,15 +298,18 @@ This project was carried out as a workshop/shared ritual in Mexico and Peru. The
 </div>
 [experimental] Conversations between people speaking in foreign languages // 2013-2015
 
+<a id="mitin_description_button" href="javascript:toggle('mitin_description')">TEXT</a><br />
+
+<span class="mitin_description en" style="display:none;">
 Participants were invited to engage in conversation with another person while each speaking in their mother tongue. They had to practice/attempt communication even thought they did not speak each other's language. Conversations were carried out in Mandarin, Spanish, French, Corean, Tibetan, and Arabic in different combinations. The dialog was revealed afterwards when the content was transcribed from the sound recordings into what was then the common ground; English. Video and sound recordings document these encounters. The frame however reveals very little of the speakers and rather centers in the space in between them.
-{: .en }
+</span>
 
 ## <a name="bio"></a>Bio
 
 Lucia Monge is a Peruvian artist with a background in education and art + science collaboration. Her work explores the way humans position ourselves within the natural world and relate to other living beings, especially plants. For the past nine years she has organized Plantón Móvil, a yearly “walking forest” performance that leads to the creation of public green areas. This year it was organized in collaboration with the Queens Museum, NYC Parks, John Bowne Highschool and local community groups and supported by Citywide Nursery and the Queens Botanical Garden.  
 {: .en }
 
-Monge has exhibited in South America, Europe, and the United States as well as at the United Nations Climate Change Conference (COP20). She has presented her work in conferences including Performance Climates at Melbourne University and Open Engagement at the Queens Museum and has been included in publications such as Global Performance Issues and MoMA’s Uneven Growth as well as in the popular press.   
+Monge has exhibited in South America, Europe, and the United States as well as at the United Nations Climate Change Conference (COP20). She has presented her work in conferences including Performance Climates at Melbourne University and Open Engagement at the Queens Museum and has been included in publications such as Global Performance Issues and MoMA’s Uneven Growth as well as in the popular press.  
 {: .en }
 
 Lucia holds a BFA from Universidad Católica del Peru and a MFA from Rhode Island School of Design. She taught Design in Experimental + Foundation Studies at RISD and Studio Foundation and 3D Foundations in the Visual Arts Department at Brown University. She has recently relocated to Portland, Oregon.
