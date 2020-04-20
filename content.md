@@ -5,7 +5,7 @@
 ## News
 
 #### Current | Upcoming
-• [Biomaterials: Alternative Materials for Art and Design] (https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design) (workshop) at Sitka Center for Art and Ecology, Jun 18, 19, 20
+• [Biomaterials: Alternative Materials for Art and Design](https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design) (workshop) at Sitka Center for Art and Ecology, Jun 18, 19, 20   
 • "Desbosque: desenterrando señales" (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
 • Xin Liu and I are sending potato seeds to low earth orbit with MIT's [Earthlings open call](https://www.media.mit.edu/posts/earthling-sei-open-call/) and as part of our project "Unearthing Futures: the decolonizing potential of potatoes", Mar 31     
 
