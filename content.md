@@ -316,14 +316,13 @@ Monge has exhibited in South America, Europe, and the United States as well as a
 Lucia holds a BFA from Universidad Católica del Peru and a MFA from Rhode Island School of Design. She taught Design in Experimental + Foundation Studies at RISD and Studio Foundation and 3D Foundations in the Visual Arts Department at Brown University. She has recently relocated to Portland, Oregon.
 {: .en }
 
-[Curriculum Vitae](LuciaMonge_CV2019web.pdf)
+[Curriculum Vitae](LuciaMongeResumewebsite.pdf)
 
 
 ## <a name="contacto"></a>Contacto
 
-lucia [at] plantonmovil [dot] org  
 
-lucia [arroba] plantonmovil [punto] org
-
+lucia@plantonmovil.org    
+[Instagram](https://www.instagram.com/plantonmovil/)  
 
 <img src="images/Monge_Tito.png" style="margin-bottom: 0px" />
