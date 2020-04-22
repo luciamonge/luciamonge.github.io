@@ -22,7 +22,7 @@
 
 ## Works <a name="works"></a>
 
-### Tools for many kinds of selves
+### Tools for many kinds of selves / Herramientas para distintas formas de ser
 
 <div class="carousel">
     <div><img data-lazy="images/LMonge_T4MKS_7.png"></div>
@@ -48,7 +48,8 @@ I believe sculpture can be a sort of walking cane; a tool that becomes a physica
 I have been making sculptures that take on the form of speculative/prosthetic/por qué no/what-if tools meant to be used by small groups of people. These tools and the accompanying scores are influenced by mycelial thinking and invite to observe and record the thinking and action that emerge from attention to other ways of being (to each other). 
 </span>
 
-### Fruiting Bodies
+
+### Fruiting Bodies / Cuerpos Fructíferos
 
 <div class="carousel">
     <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.png"></div>
@@ -72,9 +73,7 @@ Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is
 </span>
 
 
-
-
-### Re-Performing Darwin 
+### Re-Performeando a Darwin /  Re-Performing Darwin
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_2.png"></div>
