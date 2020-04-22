@@ -51,16 +51,16 @@ I have been making sculptures that take on the form of speculative/prosthetic/po
 ### Fruiting Bodies
 
 <div class="carousel">
-    <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.jpg"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_cloning.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_cast2.jpg"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_cast.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_agarsculpture.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_intention.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_digging.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_agarcasts.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_burial.JPG"></div>
-    <div><img data-lazy="images/LMonge_FruitingBodies_1.jpg"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cloning.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cast2.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_cast.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_agarsculpture.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_intention.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_digging.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_agarcasts.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_burial.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_1.png"></div>
 </div>
 
 2019-ongoing  
@@ -68,7 +68,7 @@ I have been making sculptures that take on the form of speculative/prosthetic/po
 <a id="fruiting_description_button" href="javascript:toggle('fruiting_description')">TEXT</a><br />
 
 <span class="fruiting_description en" style="display:none;">
-Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, exploring the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans.
+Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing project with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, that explores the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans.
 </span>
 
 
