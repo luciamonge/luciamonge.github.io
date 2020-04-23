@@ -6,21 +6,43 @@
 
 #### Current | Upcoming
 • [Biomaterials: Alternative Materials for Art and Design](https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design) (workshop) at Sitka Center for Art and Ecology, Jun 18, 19, 20   
-• "Desbosque: desenterrando señales" (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
-• Xin Liu and I are sending potato seeds to low earth orbit with MIT's [Earthlings open call](https://www.media.mit.edu/posts/earthling-sei-open-call/) and as part of our project "Unearthing Futures: the decolonizing potential of potatoes", Mar 31     
+• Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16  
+• _Desbosque: desenterrando señales_ (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
+• Xin Liu and I are sending potato seeds to low earth orbit with MIT's [Earthlings open call](https://www.media.mit.edu/posts/earthling-sei-open-call/) and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
+• Artist talk for “Ecology and Art” course, SUNY Purchase College, Feb 24 
 
 
 #### Reciente 
 • [El Plantón Móvil de Lucia Monge](http://www.iech-conicet.gob.ar/novedades/3872/) por Víctor Vich en "Las humanidades por venir: políticas y debates en el siglo XXI" Sandra Contreras y José Goity. Rosario: Humanidades y Artes Ediciones, Dec 2019  
-• Artist talk at “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
-• Artist talk at "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
-• [Plantón Móvil at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
+• Artist talk for “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
+• Artist talk for "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
+• [_Plantón Móvil_ at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
 • [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
 • Premio de Producción Artística para el Colectivo FIBRA (award) Ministerio de Cultura del Perú, Lima 20 de setiembre   
    
 
 
 ## Works <a name="works"></a>
+
+### Unearthing Futures / Desenterrando Futuros
+
+<div class="carousel">
+    <div><img data-lazy="images/LMonge_UnearthingFutures_mantel.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_tps.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_germinacion.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_payload.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_potatoberry2.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
+</div>
+
+2020-ongoing  
+
+<a id="tools_description_button" href="javascript:toggle('unearthing_description')">TEXT</a><br />
+
+<span class="unearthing_description en" style="display:none;">
+_Unearthing Futures: the decolonizing potential of potatoes_ is a collaboration with Xin Liu that calls on potatoes to carry diverse and non-colonial visions of the future and space travel. Native to Peru, potatoes have over 4,000 varieties and are the fifth most grown crop worldwide. They are also among the first choices to be grown by the Chinese Space Agency’s Moon landing. Our project takes our Chinese and Peruvian backgrounds as starting points and engages other immigrants to exchange visions of space travel, to experiment with multi-gravitational farming, and to explore different spatial-temporal relationships across cultures. All of this while we cook and share potatoes remembering our grandmothers’ recipes.
+</span>
+
 
 ### Tools for many kinds of selves / Herramientas para distintas formas de ser
 
@@ -69,7 +91,7 @@ I have been making sculptures that take on the form of speculative/prosthetic/po
 <a id="fruiting_description_button" href="javascript:toggle('fruiting_description')">TEXT</a><br />
 
 <span class="fruiting_description en" style="display:none;">
-Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation is a collaborative and ongoing project with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, that explores the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans.
+_Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation_ is a collaborative and ongoing project with Chris Kennedy and Chloe Zimmerman. Fruiting Bodies is an ongoing experiment in fungal sociality, that explores the possibilities of mushroom cloning, mycoremediation, and social exchange through community science, sculpture, and collective ritual. The project launched in 2019 with a workshop at Genspace, inviting participants to create agar-based sculptures modeled from a chosen body part and inoculated with oyster mushrooms. After a week of incubation, the sculptures (fruiting bodies) were buried in a disturbed site in Sunset Park, Brooklyn exploring community-based approaches to bioremediation. Chris and Chloe held a second workshop at Governor's Island during the summer as part of the Jie Jin's Curiouseed program. Now we are planning our future plans.
 </span>
 
 
@@ -89,7 +111,7 @@ Las rejas y paredes por las que estas plantas trepan son particularmente relevan
 </span>
 
 <span class="darwin_description en" style="display:none;">
-This (still untitled) project starts with Charles Darwin's text The Movements and Habits of Climbing Plants and replicates some of his experiments for observing and notating plant movement. Although my experiments are translations of his methods, tools, and techniques they share a base in observation. My project notes two different scales and contexts. One of my experiments marks the growth of particular shoots and tendrils in plants inside my studio and the other records the movement of plants intertwined with the urban infrastructure. The first scenario allows for a focus on the movement of specific plant parts and of the individuals themselves by reducing the amount of environmental variables. The second scenario focuses on precisely the movement that results from the changing environment and represents the negotiation between the plants, the built environment, and the other many living beings bustling on the streets.
+This project starts with Charles Darwin's text The Movements and Habits of Climbing Plants and replicates some of his experiments for observing and notating plant movement. Although my experiments are translations of his methods, tools, and techniques they share a base in observation. My project notes two different scales and contexts. One of my experiments marks the growth of particular shoots and tendrils in plants inside my studio and the other records the movement of plants intertwined with the urban infrastructure. The first scenario allows for a focus on the movement of specific plant parts and of the individuals themselves by reducing the amount of environmental variables. The second scenario focuses on precisely the movement that results from the changing environment and represents the negotiation between the plants, the built environment, and the other many living beings bustling on the streets.
 </span>
 
 <span class="darwin_description en" style="display:none;">
@@ -117,7 +139,7 @@ Mi investigación ha comenzado con especies endémicas de Sudáfrica y Perú. Co
 </span>
 
 <span class="agua_description en" style="display:none;">
-Mi niño, your dry spell, their waterfall is a long-term project that looks into the ways in which desert plants collect and conserve water to re-think and re-shape human tools designed for similar tasks. It begins with plant species endemic to deserts in South Africa and Peru and will later expand to other parts of the world. These plant's morphological adaptations inform sculptural explorations that produce natural-cultural artifacts and speculative water systems. To observe how plants face the challenge of water scarcity serves as a lens to revisit the way humans handle water and organize its distribution on an everyday basis.
+_Mi niño, your dry spell, their waterfall_ is a long-term project that looks into the ways in which desert plants collect and conserve water to re-think and re-shape human tools designed for similar tasks. It begins with plant species endemic to deserts in South Africa and Peru and will later expand to other parts of the world. These plant's morphological adaptations inform sculptural explorations that produce natural-cultural artifacts and speculative water systems. To observe how plants face the challenge of water scarcity serves as a lens to revisit the way humans handle water and organize its distribution on an everyday basis.
 </span>
 
 
@@ -190,7 +212,7 @@ I have organized “walking forest” performances annually since 2010. Plantón
 </span>
 
 <span class="planton_description en" style="display:none;">
-More on Plantón Móvil on the project’s website: [http://www.plantonmovil.org](http://www.plantonmovil.org)
+More on _Plantón Móvil_ on the project’s website: [http://www.plantonmovil.org](http://www.plantonmovil.org)
 </span>
 
 <span class="planton_description es" style="display:none;">
