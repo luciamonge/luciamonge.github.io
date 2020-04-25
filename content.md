@@ -284,7 +284,7 @@ Installation of plants connected to the human organ system, a drawing table with
 </div>
 
 
-### Pañuelos de Despedida
+### Pañuelos de Despedida / Farewell Handkerchiefs
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_PañuelosdeDespedida_choclo.png"></div>
