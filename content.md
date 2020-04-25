@@ -1,23 +1,23 @@
-# LUCIA MONGE
+# LUCIA MONGE <a name="top"></a>
 
 ##### [Works](#works), [Bio](#bio), [Contacto](#contacto)
 
 ## News
 
 #### Current | Upcoming
-• [Biomaterials: Alternative Materials for Art and Design](https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design) (workshop) at Sitka Center for Art and Ecology, Jun 18, 19, 20   
+• <a href="https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design" target="_blank">Biomaterials: Alternative Materials for Art and Design</a> (workshop) at Sitka Center for Art and Ecology, Jun 18, 19, 20   
 • Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16  
-• _Desbosque: desenterrando señales_ (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
-• Xin Liu and I are sending potato seeds to low earth orbit with MIT's [Earthlings open call](https://www.media.mit.edu/posts/earthling-sei-open-call/) and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
+• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank">_Desbosque: desenterrando señales_</a> (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
+• Xin Liu and I are sending potato seeds to low earth orbit with MIT's <a href="https://www.media.mit.edu/posts/sojourner-2020/" target="_blank">Earthlings open call</a> and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
 • Artist talk for “Ecology and Art” course, SUNY Purchase College, Feb 24 
 
 
 #### Reciente 
-• [El Plantón Móvil de Lucia Monge](http://www.iech-conicet.gob.ar/novedades/3872/) por Víctor Vich en "Las humanidades por venir: políticas y debates en el siglo XXI" Sandra Contreras y José Goity. Rosario: Humanidades y Artes Ediciones, Dec 2019  
+• <a href="http://www.iech-conicet.gob.ar/novedades/3872/" target="_blank">El Plantón Móvil de Lucia Monge</a> por Víctor Vich en "Las humanidades por venir: políticas y debates en el siglo XXI" Sandra Contreras y José Goity. Rosario: Humanidades y Artes Ediciones, Dec 2019  
 • Artist talk for “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
 • Artist talk for "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
-• [_Plantón Móvil_ at the Queens Museum and in collaboration with local communities](https://queensmuseum.org/events/planton-movil) Queens Museum, Oct 12th 2-5pm    
-• [Biomateriales: cocinando alternativas](https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/) (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
+• <a href="https://queensmuseum.org/events/planton-movil/" target="_blank">_Plantón Móvil_</a> at the Queens Museum and in collaboration with local communities] Queens Museum, Oct 12th 2-5pm    
+• <a href="https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/" target="_blank">Biomateriales: cocinando alternativas</a> (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
 • Premio de Producción Artística para el Colectivo FIBRA (award) Ministerio de Cultura del Perú, Lima 20 de setiembre   
    
 
@@ -68,6 +68,51 @@ I believe sculpture can be a sort of walking cane; a tool that becomes a physica
 
 <span class="tools_description en" style="display:none;">
 I have been making sculptures that take on the form of speculative/prosthetic/por qué no/what-if tools meant to be used by small groups of people. These tools and the accompanying scores are influenced by mycelial thinking and invite to observe and record the thinking and action that emerge from attention to other ways of being (to each other). 
+</span>
+
+
+### Plantón Móvil
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_9.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_2.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_5.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_3.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_6.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_7.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_8.png"></div>
+    <div><img data-lazy="images/LuciaMonge_PlantonMovil_4.png"></div>
+</div>
+
+Plants, trees and people // 2010-ongoing  
+<a href="http://www.plantonmovil.org" target="_blank">http://www.plantonmovil.org</a>  
+
+<a id="planton_description_button" href="javascript:toggle('planton_description')">TEXT</a><br />
+
+<span class="planton_description es" style="display:none;">
+¿Cómo sería encontrarse un bosque móvil circulando entre el tráfico, los edificios y la gente apurada?
+Todos los días crece el cemento y disminuye el verde. Los árboles, arbustos, flores y demás plantas de nuestra ciudad quedan irremediablemente en algún rincón de la ciudad: casi invisibles y totalmente inmóviles. Son arrimados, asfixiados y hasta convertidos en basurero. Es entonces como un pequeño grupo de plantas se junta y sale a circular entre los micros y combis de Lima. Un pequeño bosque que sale pacíficamente a marchar por su lugar en la ciudad.
+</span>
+
+<span class="planton_description es" style="display:none;">
+Al final de cada recorrido un grupo de las plantas recorridas sirven para crear una área verde en el espacio público.
+</span>
+
+<span class="planton_description en" style="display:none;">
+“Plantón” is the word in Spanish for a sapling. It is also the word for a sit-in. This project takes on both: the green to be planted and the peaceful protest. It is about giving plants and trees the opportunity to walk down the streets of their city. At the end of each walk, we co-create community public green areas.
+</span>
+
+<span class="planton_description en" style="display:none;">
+I have organized “walking forest” performances annually since 2010. Plantón Móvil is about moving-with as a form of solidarity. I began thinking humans were lending their mobility to plants—now I understand that we gain much from borrowing their slowness as well. We learn in our attempt to find common speed.
+</span>
+
+<span class="planton_description en" style="display:none;">
+More on _Plantón Móvil_ on the project’s website: [http://www.plantonmovil.org](http://www.plantonmovil.org)
+</span>
+
+<span class="planton_description es" style="display:none;">
+Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanissevich, Jorge Ochoa
 </span>
 
 
@@ -175,51 +220,6 @@ Fotos: Forrest Kelley, Damian Griffiths and Eugenia Ivanissevich
 </span>
 
 
-### Plantón Móvil
-
-<div class="carousel">
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_1.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_9.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_2.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_5.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_3.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_6.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_7.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_8.png"></div>
-    <div><img data-lazy="images/LuciaMonge_PlantonMovil_4.png"></div>
-</div>
-
-Plants, trees and people // 2010-ongoing  
-[http://www.plantonmovil.org](http://www.plantonmovil.org)
-
-<a id="planton_description_button" href="javascript:toggle('planton_description')">TEXT</a><br />
-
-<span class="planton_description es" style="display:none;">
-¿Cómo sería encontrarse un bosque móvil circulando entre el tráfico, los edificios y la gente apurada?
-Todos los días crece el cemento y disminuye el verde. Los árboles, arbustos, flores y demás plantas de nuestra ciudad quedan irremediablemente en algún rincón de la ciudad: casi invisibles y totalmente inmóviles. Son arrimados, asfixiados y hasta convertidos en basurero. Es entonces como un pequeño grupo de plantas se junta y sale a circular entre los micros y combis de Lima. Un pequeño bosque que sale pacíficamente a marchar por su lugar en la ciudad.
-</span>
-
-<span class="planton_description es" style="display:none;">
-Al final de cada recorrido un grupo de las plantas recorridas sirven para crear una área verde en el espacio público.
-</span>
-
-<span class="planton_description en" style="display:none;">
-“Plantón” is the word in Spanish for a sapling. It is also the word for a sit-in. This project takes on both: the green to be planted and the peaceful protest. It is about giving plants and trees the opportunity to walk down the streets of their city. At the end of each walk, we co-create community public green areas.
-</span>
-
-<span class="planton_description en" style="display:none;">
-I have organized “walking forest” performances annually since 2010. Plantón Móvil is about moving-with as a form of solidarity. I began thinking humans were lending their mobility to plants—now I understand that we gain much from borrowing their slowness as well. We learn in our attempt to find common speed.
-</span>
-
-<span class="planton_description en" style="display:none;">
-More on _Plantón Móvil_ on the project’s website: [http://www.plantonmovil.org](http://www.plantonmovil.org)
-</span>
-
-<span class="planton_description es" style="display:none;">
-Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanissevich, Jorge Ochoa
-</span>
-
-
 ### Body partes
 
 <div class="carousel">
@@ -232,17 +232,6 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
     <div><img data-lazy="images/LMonge_T4MKS_4.png"></div>
 </div>
 
-
-### Arcadia Artificial
-
-<div class="carousel">
-    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_M.png"></div>
-    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_1.png"></div>
-    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_X.png"></div>
-    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Eya.png"></div>
-    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_K.png"></div>
-    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Fondo1.png"></div>
-</div>
 
 ### Primer Contacto
 
@@ -261,6 +250,19 @@ Installation of plants connected to the human organ system, a drawing table with
 <span class="primer_description en" style="display:none;">
  This installation invited participants to spend some time drawing a plant in detail. Drawing requires observation and close attention. In this way the experience aimed to function as an initial contact with the chosen plant. The pen with which the drawings were made had a piezo-electric connected to it so each trace created a specific sound. The contact sounds between the pen, the paper, the observer's eye, and the plant were reproduced through speakers, recorded and later displayed next to the participants' drawings.
 </span>
+
+
+### Arcadia Artificial
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_M.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_X.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Eya.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_K.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ArcadiaArtificial_Fondo1.png"></div>
+</div>
+
 
 ### escultura / sculpture
 
@@ -329,21 +331,22 @@ Participants were invited to engage in conversation with another person while ea
 ## <a name="bio"></a>Bio
 
 Lucia Monge is a Peruvian artist with a background in education and art + science collaboration. Her work explores the way humans position ourselves within the natural world and relate to other living beings, especially plants. For the past nine years she has organized Plantón Móvil, a yearly “walking forest” performance that leads to the creation of public green areas. This year it was organized in collaboration with the Queens Museum, NYC Parks, John Bowne Highschool and local community groups and supported by Citywide Nursery and the Queens Botanical Garden.  
-{: .en }
 
 Monge has exhibited in South America, Europe, and the United States as well as at the United Nations Climate Change Conference (COP20). She has presented her work in conferences including Performance Climates at Melbourne University and Open Engagement at the Queens Museum and has been included in publications such as Global Performance Issues and MoMA’s Uneven Growth as well as in the popular press.  
-{: .en }
 
 Lucia holds a BFA from Universidad Católica del Peru and a MFA from Rhode Island School of Design. She taught Design in Experimental + Foundation Studies at RISD and Studio Foundation and 3D Foundations in the Visual Arts Department at Brown University. She has recently relocated to Portland, Oregon.
-{: .en }
 
 [Curriculum Vitae](LuciaMongeResumewebsite.pdf)
+
+<a href="LuciaMongeResumewebsite.pdf" target="_blank">Curriculum Vitae</a>
 
 
 ## <a name="contacto"></a>Contacto
 
 
 lucia@plantonmovil.org    
-[Instagram](https://www.instagram.com/plantonmovil/)  
+<a href="https://www.instagram.com/plantonmovil/" target="_blank">Instagram</a>
 
-<img src="images/Monge_Tito.png" style="margin-bottom: 0px" />
+<img src="images/Monge_Tito2.png" style="margin-bottom: 0px" />
+
+## [^ ^ ^ ^](#top)
