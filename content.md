@@ -14,11 +14,11 @@
 
 #### Reciente 
 • <a href="http://www.iech-conicet.gob.ar/novedades/3872/" target="_blank">El Plantón Móvil de Lucia Monge</a> por Víctor Vich en "Las humanidades por venir: políticas y debates en el siglo XXI" Sandra Contreras y José Goity. Rosario: Humanidades y Artes Ediciones, Dec 2019  
-• Artist talk for “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 29  
-• Artist talk for "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 22  
-• <a href="https://queensmuseum.org/events/planton-movil/" target="_blank">_Plantón Móvil_</a> at the Queens Museum and in collaboration with local communities] Queens Museum, Oct 12th 2-5pm    
-• <a href="https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/" target="_blank">Biomateriales: cocinando alternativas</a> (taller) Espacio Fundación Telefónica, Lima, 25-28 de setiembre   
-• Premio de Producción Artística para el Colectivo FIBRA (award) Ministerio de Cultura del Perú, Lima 20 de setiembre   
+• Artist talk for “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 2019  
+• Artist talk for "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 2019  
+• <a href="https://queensmuseum.org/events/planton-movil/" target="_blank">_Plantón Móvil_</a> at the Queens Museum and in collaboration with local communities] Queens Museum, Oct 2019   
+• <a href="https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/" target="_blank">Biomateriales: cocinando alternativas</a> (taller) Espacio Fundación Telefónica, Lima, Setiembre 2019  
+• Premio de Producción Artística para el Colectivo FIBRA (award) Ministerio de Cultura del Perú, Setiembre 2019   
    
 
 
@@ -27,11 +27,15 @@
 ### Unearthing Futures / Desenterrando Futuros
 
 <div class="carousel">
-    <div><img data-lazy="images/LMonge_UnearthingFutures_mantel.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds1.jpg"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds4.jpg"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds2.jpg"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds3.jpg"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_potatoberry2.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_tps.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_germinacion.png"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_payload2.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_payload.png"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_potatoberry2.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
 </div>
 
