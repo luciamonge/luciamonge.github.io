@@ -27,8 +27,8 @@
 ### Unearthing Futures / Desenterrando Futuros
 
 <div class="carousel">
+    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds4.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds1.jpg"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds4.jpg"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds2.jpg"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds3.jpg"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_potatoberry2.png"></div>
@@ -125,10 +125,12 @@ Fotos: Rob Harris, Tatiana Guerrero, Brian House, Josip Curich, Eugenia Ivanisse
 <div class="carousel">
     <div><img data-lazy="images/LMonge_FruitingBodies_BurialInvite.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_cloning.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_process.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_cast2.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_cast.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_agarsculpture.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_intention.png"></div>
+    <div><img data-lazy="images/LMonge_FruitingBodies_burialinvite2.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_digging.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_agarcasts.png"></div>
     <div><img data-lazy="images/LMonge_FruitingBodies_burial.png"></div>
