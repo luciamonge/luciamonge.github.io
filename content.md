@@ -149,6 +149,13 @@ _Fruiting Bodies: Creative Experiments in Fungal Inoculation & Mycoremediation_ 
 ### Re-Performeando a Darwin /  Re-Performing Darwin
 
 <div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_sello.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_stages.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_etapas.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_5.png"></div>
+    <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_4.jpg"></div>
+    <div><img data-lazy="images/LMonge_1nnmas.jpg"></div>
+    <div><img data-lazy="images/LMonge_phantonmlimb2.jpg"></div>
     <div><img data-lazy="images/LuciaMonge_ReperformingDarwin_2.png"></div>
 </div>
 
@@ -287,6 +294,9 @@ Installation of plants connected to the human organ system, a drawing table with
     <div><img data-lazy="images/LuciaMonge_dibujo_45.png"></div>
     <div><img data-lazy="images/LMonge_NosotrosDibujo.png"></div>
     <div><img data-lazy="images/LMonge_MuyBien.png"></div>
+    <div><img data-lazy="images/LMonge_curbyourself.jpg"></div>
+    <div><img data-lazy="images/LMonge_circulacion.jpg"></div>
+    <div><img data-lazy="images/"></div>
 </div>
 
 
