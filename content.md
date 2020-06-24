@@ -5,7 +5,8 @@
 ## News
 
 #### Current | Upcoming
-• <a href="https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design" target="_blank">Biomaterials: Alternative Materials for Art and Design</a> (workshop) at Sitka Center for Art and Ecology, Jun 18, 19, 20   
+• <a ref="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July    
+• <a href="https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design" target="_blank">Biomaterials: Alternative Materials for Art and Design</a> workshop at Sitka Center for Art and Ecology (summer workshops at Sitka have been cancelled due to COVID-19 health concerns)   
 • Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16  
 • <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank">_Desbosque: desenterrando señales_</a> (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
 • Xin Liu and I are sending potato seeds to low earth orbit with MIT's <a href="https://www.media.mit.edu/posts/sojourner-2020/" target="_blank">Earthlings open call</a> and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
