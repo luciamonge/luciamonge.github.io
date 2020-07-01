@@ -28,6 +28,7 @@
 ### Unearthing Futures / Desenterrando Futuros
 
 <div class="carousel">
+    <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds4.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds1.jpg"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds2.jpg"></div>
@@ -37,7 +38,6 @@
     <div><img data-lazy="images/LMonge_UnearthingFutures_germinacion.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_payload2.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_payload.png"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
 </div>
 
 2020-ongoing  
