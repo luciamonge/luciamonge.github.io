@@ -5,6 +5,7 @@
 ## News
 
 #### Current | Upcoming
+• <a href="https://terremoto.mx/article/agua-tierra-magica-y-hongos-sobre-tres-proyectos-expositivos-llevados-a-cabo-en-el-mac-lim/" target="_blank">Agua, tierra (mágica) y hongos. Sobre tres proyectos expositivos llevados a cabo en el MAC Lima</a> por Giuliana Vidarte en Terremoto.mx, Jul 16      
 • <a ref="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July    
 • <a href="https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design" target="_blank">Biomaterials: Alternative Materials for Art and Design</a> workshop at Sitka Center for Art and Ecology (summer workshops at Sitka have been cancelled due to COVID-19 health concerns)   
 • Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16  
