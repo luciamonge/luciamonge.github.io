@@ -5,8 +5,11 @@
 ## News
 
 #### Current | Upcoming
+• Panel de Diseño y Naturaleza, Congreso Académico de Diseño <a href="https://cadilatam.org" target="_blank">CADi 2020: Reemergencias</a>, Oct 19 6:00-7:45pm GMT-5  
+• <a href="https://ars.electronica.art/keplersgardens/en/digital-exhibition-sojourner/" target="_blank">Digital Exhibition: Sojourner 2020</a>, Ars Electronica, In Kepler's Gardens - Space Has Arrived    
+• <a href="https://www.youtube.com/watch?v=zzNqX0k2Pjc&feature=youtu.be/" target="_blank">Sojourner 2020 Artist Conversation</a>, Ars Electronica, Sept 10 11:00-12:30 EST    
 • <a href="https://terremoto.mx/article/agua-tierra-magica-y-hongos-sobre-tres-proyectos-expositivos-llevados-a-cabo-en-el-mac-lim/" target="_blank">Agua, tierra (mágica) y hongos. Sobre tres proyectos expositivos llevados a cabo en el MAC Lima</a> por Giuliana Vidarte en Terremoto.mx, Jul 16      
-• <a ref="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July    
+• <a href="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July    
 • <a href="https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design" target="_blank">Biomaterials: Alternative Materials for Art and Design</a> workshop at Sitka Center for Art and Ecology (summer workshops at Sitka have been cancelled due to COVID-19 health concerns)   
 • Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16  
 • <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank">_Desbosque: desenterrando señales_</a> (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
