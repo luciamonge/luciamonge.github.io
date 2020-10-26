@@ -11,22 +11,14 @@
 • Panel de Diseño y Naturaleza, Congreso Académico de Diseño <a href="https://cadilatam.org" target="_blank">CADi 2020: Reemergencias</a> Oct 19, 6:00-7:45pm GMT-5  
 • <a href="https://ars.electronica.art/keplersgardens/en/digital-exhibition-sojourner/" target="_blank">Digital Exhibition: Sojourner 2020</a>, Ars Electronica, In Kepler's Gardens - Space Has Arrived    
 • <a href="https://www.youtube.com/watch?v=zzNqX0k2Pjc&feature=youtu.be/" target="_blank">Sojourner 2020 Artist Conversation</a>, Ars Electronica, Sept 10 11:00-12:30 EST    
-• <a href="https://terremoto.mx/article/agua-tierra-magica-y-hongos-sobre-tres-proyectos-expositivos-llevados-a-cabo-en-el-mac-lim/" target="_blank">Agua, tierra (mágica) y hongos. Sobre tres proyectos expositivos llevados a cabo en el MAC Lima</a> por Giuliana Vidarte en Terremoto.mx, Jul 16      
-• <a href="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July    
-• <a href="https://www.sitkacenter.org/workshops/biomaterials-alternative-materials-for-art-and-design" target="_blank">Biomaterials: Alternative Materials for Art and Design</a> workshop at Sitka Center for Art and Ecology (summer workshops at Sitka have been cancelled due to COVID-19 health concerns)   
-• Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16  
-• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank">_Desbosque: desenterrando señales_</a> (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
-• Xin Liu and I are sending potato seeds to low earth orbit with MIT's <a href="https://www.media.mit.edu/posts/sojourner-2020/" target="_blank">Earthlings open call</a> and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
-• Artist talk for “Ecology and Art” course, SUNY Purchase College, Feb 24 
-
+    
 
 #### Reciente 
-• <a href="http://www.iech-conicet.gob.ar/novedades/3872/" target="_blank">El Plantón Móvil de Lucia Monge</a> por Víctor Vich en "Las humanidades por venir: políticas y debates en el siglo XXI" Sandra Contreras y José Goity. Rosario: Humanidades y Artes Ediciones, Dec 2019  
-• Artist talk for “Contesting Spaces: Art, Ecologies, Activism” course, Smith College, Oct 2019  
-• Artist talk for "Art & Ecology: Materials Matter" course, Lewis & Clark College, Oct 2019  
-• <a href="https://queensmuseum.org/events/planton-movil/" target="_blank">_Plantón Móvil_</a> at the Queens Museum and in collaboration with local communities] Queens Museum, Oct 2019   
-• <a href="https://espacio.fundaciontelefonica.com.pe/evento/biomateriales-cultivando-alternativas/" target="_blank">Biomateriales: cocinando alternativas</a> (taller) Espacio Fundación Telefónica, Lima, Setiembre 2019  
-• Premio de Producción Artística para el Colectivo FIBRA (award) Ministerio de Cultura del Perú, Setiembre 2019   
+ • <a href="https://terremoto.mx/article/agua-tierra-magica-y-hongos-sobre-tres-proyectos-expositivos-llevados-a-cabo-en-el-mac-lim/" target="_blank">Agua, tierra (mágica) y hongos. Sobre tres proyectos expositivos llevados a cabo en el MAC Lima</a> por Giuliana Vidarte en Terremoto.mx, Jul 16      
+• <a href="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July  
+ • Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16   
+• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank">_Desbosque: desenterrando señales_</a> (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
+• Xin Liu and I are sending potato seeds to low earth orbit with MIT's <a href="https://www.media.mit.edu/posts/sojourner-2020/" target="_blank">Earthlings open call</a> and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
    
 
 
