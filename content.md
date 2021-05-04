@@ -41,10 +41,20 @@
 
 2020-ongoing  
 
+_Unearthing Futures_ is a collaboration with Xin Liu that asks who gets to go to space? Who even gets to imagine themselves going to space?
+
 <a id="tools_description_button" href="javascript:toggle('unearthing_description')">TEXT</a><br />
 
 <span class="unearthing_description en" style="display:none;">
-_Unearthing Futures: the decolonizing potential of potatoes_ is a collaboration with Xin Liu that calls on potatoes to carry diverse and non-colonial visions of the future and space travel. Native to Peru, potatoes have over 4,000 varieties and are the fifth most grown crop worldwide. They are also among the first choices to be grown by the Chinese Space Agency’s Moon landing. Our project takes our Chinese and Peruvian backgrounds as starting points and engages other immigrants to exchange visions of space travel, to experiment with multi-gravitational farming, and to explore different spatial-temporal relationships across cultures. All of this while we cook and share potatoes remembering our grandmothers’ recipes.
+The dominant narrative of the future and space exploration follows western aesthetics and politics that are really just a continuation of colonialism. The search for new territories and even the idea of “discovery” are really motivated by extraction and supported by exploitation.
+</span>
+
+<span class="unearthing_description en" style="display:none;">
+As a response, we sent 150 Peruvian potatoes seeds to space.  Upon their return from a month-long stay at the International Space Station we planted them alongside their earthbound siblings in our backyards. 
+</span>
+
+<span class="unearthing_description en" style="display:none;">
+We chose potatoes because they are a symbol of diversity. In Peru, where they are indigenous, there are more than 4,500 varieties. Furthermore, we see them not only as food source or biological specimens but also as fellow travelers or even co-pilots.  Their journey to space is the beginning of a series of conversations and re-imaginations of future space travel.
 </span>
 
 
