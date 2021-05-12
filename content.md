@@ -5,22 +5,23 @@
 ## News
 
 #### Current | Upcoming
-• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">Artist residency + Lecture at KSMoCA</a> Nov 5, 10am PDT  
-• Artist-in-residence at PSU’s Art and Social Practice MFA. 2020-2021  
-• <a href="https://maclima.pe/event/relaciones-entre-sesion1/" target="_blank">RELACIONES ENTRE: encuentro de arte, ecología e interdisciplinareidad</a> Simposio organizado por FIBRA Colectivo en colaboración con el Museo de Arte Contemporáneo de Lima y Fundación Telefónica Movistar. Oct 22 — Nov 12, 7:00pm PET  
-• Panel de Diseño y Naturaleza, Congreso Académico de Diseño <a href="https://cadilatam.org" target="_blank">CADi 2020: Reemergencias</a> Oct 19, 6:00-7:45pm GMT-5  
-• <a href="https://ars.electronica.art/keplersgardens/en/digital-exhibition-sojourner/" target="_blank">Digital Exhibition: Sojourner 2020</a>, Ars Electronica, In Kepler's Gardens - Space Has Arrived    
-• <a href="https://www.youtube.com/watch?v=zzNqX0k2Pjc&feature=youtu.be/" target="_blank">Sojourner 2020 Artist Conversation</a>, Ars Electronica, Sept 10 11:00-12:30 EST    
+• Artist Talk, Interdisciplinary Seminar, Caltech University, May 20  
+• <a href="https://www.facebook.com/museomaclima?mc_cid=7bcc65c5c6&mc_eid=fa113bb689" target="_blank"> Conversatorio Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, 12 mayo, 7:00 p.m.(GMT-5)  
+• FIBRA colectivo finalista <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a>  
+• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank"> Presentation of Space Potato Academy at KSMoCA</a> May 6, 10am PDT     
+• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, 15 Abril - 1 Agosto  
     
 
 #### Reciente 
- • <a href="https://terremoto.mx/article/agua-tierra-magica-y-hongos-sobre-tres-proyectos-expositivos-llevados-a-cabo-en-el-mac-lim/" target="_blank">Agua, tierra (mágica) y hongos. Sobre tres proyectos expositivos llevados a cabo en el MAC Lima</a> por Giuliana Vidarte en Terremoto.mx, Jul 16      
-• <a href="http://www.c3initiative.org/c3-papermaking-residency-program.html/" target="_blank"> C3:Papermaking Residency</a>, c3:initiative and Pulp & Deckle studio, throughout July  
- • Artist talk for “Interspecies Collaboration” course, Rhode Island School of Design, Apr 16   
-• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank">_Desbosque: desenterrando señales_</a> (exposición del colectivo FIBRA) Museo de Arte Contemporáneo de Lima, upcoming opening        
-• Xin Liu and I are sending potato seeds to low earth orbit with MIT's <a href="https://www.media.mit.edu/posts/sojourner-2020/" target="_blank">Earthlings open call</a> and as part of our project _Unearthing Futures: the decolonizing potential of potatoes_, Mar 6   
-   
+• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">Artist Talk at KSMoCA</a> Jan 14  
+• <a href="https://www.exploratorium.edu/visit/calendar/after-dark-online-art-plus-science" target="_blank">After Dark Online: Art + Science</a>, Exploratorium, San Francisco, March 4  
+• Artist Talk, Global Contemporary Art class,  Art Center, March 15  
+• Artist Talk, Art & Ecology class,  SUNY, March 22  
+• Artist-in-residence at PSU’s Art and Social Practice MFA, 2020-2021   
+• Artist-in-residence at KSMoCA, 2020-2021    
+ 
 
+   
 
 ## Works <a name="works"></a>
 
