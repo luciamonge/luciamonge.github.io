@@ -5,20 +5,23 @@
 ## News
 
 #### Current | Upcoming
-• Artist Talk, Interdisciplinary Seminar, Caltech University, May 20  
-• <a href="https://www.facebook.com/museomaclima?mc_cid=7bcc65c5c6&mc_eid=fa113bb689" target="_blank"> Conversatorio Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, 12 mayo, 7:00 p.m.(GMT-5)  
-• FIBRA colectivo finalista <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a>  
-• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank"> Presentation of Space Potato Academy at KSMoCA</a> May 6, 10am PDT     
-• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, 15 Abril - 1 Agosto  
+• <a href="https://www.facebook.com/museomaclima?mc_cid=7bcc65c5c6&mc_eid=fa113bb689" target="_blank"> Conversatorio Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, 12 mayo, 7p.m.(GMT-5)  
+• FIBRA colectivo finalista <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a>      
+• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> FIBRA colectivo at Museo de Arte Contemporáneo Lima, 15 Abr-1 Ag  
+• Artist Talk, Interdisciplinary Seminar, Caltech University, May 20   
+• Artist Talk FIBRA Colectivo, Universidad Católica del Perú, May 27  
+• Assembly, PSU Art + Social Practice, June 7, 1pm (PDT)   
+• Negar el Desierto, MAC Lima (upcoming group show) MAC Lima       
     
 
 #### Reciente 
-• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">Artist Talk at KSMoCA</a> Jan 14  
+• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank"> Presentation of Space Potato Academy at KSMoCA</a> May 6, 10am (PDT)      
 • <a href="https://www.exploratorium.edu/visit/calendar/after-dark-online-art-plus-science" target="_blank">After Dark Online: Art + Science</a>, Exploratorium, San Francisco, March 4  
 • Artist Talk, Global Contemporary Art class,  Art Center, March 15  
 • Artist Talk, Art & Ecology class,  SUNY, March 22  
+• Artist Talk, KSMoCA, Jan 14, 10 am (PDT)   
 • Artist-in-residence at PSU’s Art and Social Practice MFA, 2020-2021   
-• Artist-in-residence at KSMoCA, 2020-2021    
+• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2020-2021    
  
 
    
