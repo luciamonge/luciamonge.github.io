@@ -5,15 +5,20 @@
 ## News
 
 #### Current | Upcoming
- 
-• FIBRA colectivo finalista <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a>       
-• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> FIBRA colectivo at Museo de Arte Contemporáneo Lima, Abr 15 - Ago 1   
-• Artist Talk FIBRA Colectivo, Universidad Católica del Perú, May 27   
-• Negar el Desierto [group show] MAC Lima, May 27 - Oct 17  
-• Assembly, PSU Art + Social Practice, June 7, 1pm (PDT)     
+• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> FIBRA colectivo, Museo de Arte Contemporáneo Lima, Abr 15 - Sept 9    
+• Better World by Design, Oct 1 - 3  
+• Artistic Research, conversación con <a href="https://gianinetabja.com/site/" target="_blank">Gianine Tabja</a>, Universidad Católica del Perú, Oct 7  
+• <a href="https://maclima.pe/project/negar-el-desierto/" target="_blank">Negar el Desierto</a> group show, MAC Lima, May 27 - Oct 17   
+• Artist Talk, Land and Eco Arts class, Brown University, Nov 17   
+• Artist Talk, Lewis & Clark College, Nov 23        
+• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2020-2021   
+
     
 
 #### Reciente 
+• <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a> with <a href="https://fibracolectivo.com/" target="_blank"> FIBRA Colectivo</a>     
+• Artist Talk FIBRA Colectivo, Universidad Católica del Perú, May 27   
+• <a href="http://psusocialpractice.org/assembly/" target="_blank">Assembly</a> con FIBRA Colectivo, PSU Art + Social Practice, June 7, 1pm (PDT)  
 • Artist Talk, Interdisciplinary Seminar, Caltech University, May 20     
 • <a href="https://www.facebook.com/museomaclima?mc_cid=7bcc65c5c6&mc_eid=fa113bb689" target="_blank"> Conversatorio Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, 12 mayo, 7pm.  
 • <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank"> Presentation of Space Potato Academy at KSMoCA</a> May 6, 10am (PDT)      
@@ -22,7 +27,7 @@
 • Artist Talk, Art & Ecology class,  SUNY, March 22  
 • Artist Talk, KSMoCA, Jan 14, 10 am (PDT)   
 • Artist-in-residence at PSU’s Art and Social Practice MFA, 2020-2021   
-• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2020-2021    
+   
  
 
    
