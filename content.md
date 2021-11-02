@@ -5,7 +5,7 @@
 ## News
 
 #### Current | Upcoming
-• Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>
+• Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>  
 • Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2020-2021       
 • Conversation with Lois Harada for <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast      
 • Artist Talk, Land and Eco Arts class, Brown University, Nov 17       
