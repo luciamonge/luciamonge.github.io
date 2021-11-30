@@ -6,10 +6,10 @@
 
 #### Current | Upcoming
 • Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>  
-• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2020-2021       
-• Conversation with Lois Harada for <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast      
-• Artist Talk, Land and Eco Arts class, Brown University, Nov 17       
-• Paper + Print Exhibition at <a href="https://www.steloarts.org" target="_blank">Stelo Arts</a>, Nov 20—Jan 30.  
+• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2021-2022       
+• Conversation with Lois Harada for RISD'S <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast      
+• Artist Talk, Land and Eco Arts course, Brown University, Nov 17       
+• Coalesce, group show at <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Stelo Arts</a>, Nov 20—Jan 30.  
 • Artist Talk, Lewis & Clark College, Nov 23          
 
 #### Reciente
