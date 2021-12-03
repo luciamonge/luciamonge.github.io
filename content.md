@@ -25,6 +25,49 @@
 
 ## Works <a name="works"></a>
 
+### Desbosque:desenterrando señales
+
+<div class="carousel">
+    <div><img data-lazy="images/LuciaMonge_desbosque_3.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_desbosque_4.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_desbosque_5.png"></div>
+    <div><img data-lazy="images/LuciaMonge_desbosque_6.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_desbosque_7.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_desbosque_2.jpg"></div>
+</div>
+
+FIBRA Colectivo  
+2021-ongoing    
+
+“Desbosque” es una bioinstalación que transmite el ritmo de la deforestación en Ucayali, Perú.  
+{: .es }    
+
+_Desbosque_ is a fungi broadcast of deforestation in Ucayali, Peru.
+{: .en }  
+
+<a id="tools_description_button" href="javascript:toggle('desbosque_description')">TEXT</a><br />
+
+<span class="desbosque_description es" style="display:none;">
+Ucayali es una de las cinco regiones con la mayor cantidad de bosques en el Perú y a su vez, es la región con más denuncias relacionadas a la tala de bosques. Solamente en el 2019, se estimó una pérdida forestal equivalente a 67,360 canchas de fútbol. En esta zona, las principales causas de pérdida de bosques o "desbosque", son el comercio ilegal de madera, el tráfico de tierras y el cultivo a gran escala de palma aceitera.
+</span>
+
+<span class="desbosque_description es" style="display:none;">
+"Desbosque" toma como punto de partida a las redes de comunicación e intercambio que se forman entre las raíces de las plantas y las hifas de los hongos. Estas redes, llamadas micorrizas, permiten un flujo de información e intercambio en el bosque. De la misma manera, proponemos una bio-instalación compuesta de  esculturas co-creadas con hongos que transmiten una sonificación de data reciente sobre deforestación en la zona. Los hongos comunican la realidad de los árboles convirtiendo a la sala de exposición en un organismo que pulsa en la misma frecuencia del desbosque.
+</span>  
+
+<span class="desbosque_description en" style="display:none;">
+Ucayali is located in the Amazon rainforest and is one of the five regions with the largest amount of forests in Peru. At the same time it is the region with the most complaints related to logging. In 2019 alone, a forest loss equivalent to 67,360 soccer fields was estimated. The main causes of forest loss in this region are illegal logging, land trafficking, and palm oil plantations.
+</span>
+
+<span class="desbosque_description en" style="display:none;">
+Under the forest ground, plants, trees, and fungi join their roots and hyphae to form vast communication and exchange networks. Mycorrhizal networks inform and inspire this project. "Desbosque" is an installation of sculptures co-created with fungi that broadcast recent deforestation data and turn the urban exhibition space into an organism that pulses on the same frequency as tree loss.    
+</span>  
+
+<span class="desbosque_description en" style="display:none;">
+Fotos: Juan Pablo Murrugarra / MAC Lima  
+</span>
+
+
 ### Unearthing Futures / Desenterrando Futuros
 
 <div class="carousel">
