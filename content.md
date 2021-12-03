@@ -5,31 +5,21 @@
 ## News
 
 #### Current | Upcoming
-• Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>  
-• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2021-2022       
-• Conversation with Lois Harada for RISD'S <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast      
-• Artist Talk, Land and Eco Arts course, Brown University, Nov 17       
-• Coalesce, group show at <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Stelo Arts</a>, Nov 20—Jan 30.  
-• Artist Talk, Lewis & Clark College, Nov 23          
+• <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Coalesce</a>, Stelo Arts, Nov 20—Jan 30     
+• <a href="https://maclima.pe/project/negar-el-desierto/" target="_blank">Negar el Desierto</a>, Museo de Arte Contemporáneo de Lima, May 27—Feb 27      
+• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2021-2022        
+• US book release for <a href="https://www.plantonmovil.org" target="_blank">Plantón Móvil publication</a>, January 2022  
+• Propagaciones Radicales/ Radical Propagations, <a href="https://18thstreet.org" target="_blank">18th St Arts Center</a>, March 7—June 25, 2022      
 
 #### Reciente
-• <a href="https://maclima.pe/project/negar-el-desierto/" target="_blank">Negar el Desierto</a>, MAC Lima, May 27 - Oct 17   
+• Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>    
+• Conversation with Lois Harada for RISD'S <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast    
+• Artist Talk, Lewis & Clark College, Nov 23         
+• Artist Talk, Land and Eco Arts course, Brown University, Nov 17           
 • Artistic Research, conversación con <a href="https://gianinetabja.com/site/" target="_blank">Gianine Tabja</a>, Universidad Católica del Perú, Oct 7       
 • <a href="http://betterworldxdesign.com/conference2021.html#speakers" target="_blank"> Better World by Design</a>, Oct 1 - 3        
 • <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> FIBRA colectivo, Museo de Arte Contemporáneo Lima, Abr 15 - Sept 9      
-• <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a> with <a href="https://fibracolectivo.com/" target="_blank"> FIBRA Colectivo</a>     
-• <a href="http://psusocialpractice.org/assembly/" target="_blank">Assembly</a> con FIBRA Colectivo, PSU Art + Social Practice, June 7, 1pm (PDT)  
-• Artist Talk FIBRA Colectivo, Universidad Católica del Perú, May 27   
-• Artist Talk, Interdisciplinary Seminar, Caltech University, May 20     
-• <a href="https://www.facebook.com/museomaclima?mc_cid=7bcc65c5c6&mc_eid=fa113bb689" target="_blank"> Conversatorio Desbosque: desenterrando señales</a> Museo de Arte Contemporáneo Lima, May 12    
-• <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank"> Presentation of Space Potato Academy at KSMoCA</a> May 6, 10am (PDT)      
-• <a href="https://www.exploratorium.edu/visit/calendar/after-dark-online-art-plus-science" target="_blank">After Dark Online: Art + Science</a>, Exploratorium, San Francisco, March 4  
-• Artist Talk, Global Contemporary Art class,  Art Center, March 15  
-• Artist Talk, Art & Ecology class,  SUNY, March 22  
-• Artist Talk, KSMoCA, Jan 14, 10 am (PDT)   
-• Artist-in-residence at PSU’s Art and Social Practice MFA, 2020-2021   
-
-
+• <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a> with <a href="https://fibracolectivo.com/" target="_blank"> FIBRA Colectivo</a> Jul 2021  
 
 
 
