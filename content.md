@@ -12,6 +12,7 @@
 • Propagaciones Radicales/ Radical Propagations, <a href="https://18thstreet.org" target="_blank">18th St Arts Center</a>, March 7—June 25, 2022      
 
 #### Reciente
+• Taller de Micofabricación, Laboratorio Biomateriales <a href="https://fibracolectivo.com" target="_blank">FIBRA</a>, Nov 27 y Dic 4    
 • Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>    
 • Conversation with Lois Harada for RISD'S <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast    
 • Artist Talk, Lewis & Clark College, Nov 23         
@@ -25,7 +26,7 @@
 
 ## Works <a name="works"></a>
 
-### Desbosque:desenterrando señales
+### Desbosque: desenterrando señales
 
 <div class="carousel">
     <div><img data-lazy="images/LuciaMonge_desbosque_3.jpg"></div>
@@ -65,22 +66,26 @@ Under the forest ground, plants, trees, and fungi join their roots and hyphae to
 
 <span class="desbosque_description en" style="display:none;">
 Fotos: Juan Pablo Murrugarra / MAC Lima  
+<a href="https://fibracolectivo.com" target="_blank">https://fibracolectivo.com</a>
 </span>
 
 
 ### Unearthing Futures / Desenterrando Futuros
 
 <div class="carousel">
-    <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds4.png"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds1.jpg"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds2.jpg"></div>
-    <div><img data-lazy="images/LMonge_UnearthingFutures_spacespuds3.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_dibujoLu.jpg"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_potatoberry2.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_tps.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_germinacion.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_payload2.png"></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_payload.png"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_launch.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_papas.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya2.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya3.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya4.jpg"></div>
+    <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
 </div>
 
 2020-ongoing  
@@ -107,6 +112,7 @@ We chose potatoes because they are a symbol of diversity. In Peru, where they ar
 <div class="carousel">
     <div><img data-lazy="images/LMonge_T4MKS_7.png"></div>
     <div><img data-lazy="images/LuciaMonge_myceliummegaphone.png"></div>
+    <div><img data-lazy="images/LMonge_T4MKS_riverview_.jpg"></div>
     <div><img data-lazy="images/LMonge_T4MKS.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_3.png"></div>
     <div><img data-lazy="images/LMonge_T4MKS_1.png"></div>
