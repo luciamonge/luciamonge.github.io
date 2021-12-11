@@ -88,6 +88,9 @@ Fotos: Juan Pablo Murrugarra / MAC Lima
     <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya.jpg"></div>
     <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya3.jpg"></div>
     <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Aranya4.jpg"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Serena1.png"></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Austin1.png></div>
+    <div><img data-lazy="images/LuciaMonge_UnearthingFutures_Anjelica.png></div>
     <div><img data-lazy="images/LMonge_UnearthingFutures_concepto.png"></div>
 </div>
 
