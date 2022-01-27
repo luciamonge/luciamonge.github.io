@@ -5,14 +5,17 @@
 ## News
 
 #### Current | Upcoming
-• <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Coalesce</a> at Stelo Arts in Portland, USA. Nov 20—Jan 30     
+• <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Coalesce</a> at Stelo Arts in Portland, USA. Nov 20—Feb 15     
 • Unearthing Futures at <a href="https://www.ocat.org.cn/en/" target="_blank">OCAT Biennial</a> in Shenzhen, China. Dec 19  
 • <a href="https://maclima.pe/project/negar-el-desierto/" target="_blank">Negar el Desierto</a>, Museo de Arte Contemporáneo de Lima, Perú. May 27—Feb 27   
 • Unearthing Futures at Aranya Art Center in Qinhuangdao, China. Set 26—Feb 1  
 • Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2021-2022          
-• US book release for <a href="https://www.plantonmovil.org" target="_blank">Plantón Móvil publication</a>, January 2022  
+• US book release for <a href="https://www.plantonmovil.org" target="_blank">Plantón Móvil publication</a>, February 2022  
 • Propagaciones Radicales, <a href="https://18thstreet.org" target="_blank">18th St Arts Center</a>, Santa Monica, USA. March 7—June 25, 2022     
-• PIEDRAPIEDRAPIEDRA: Encuentro de Arte y Cocina with FIBRA Colectivo in <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, Colombia. May 25—28, 2022       
+• PIEDRAPIEDRAPIEDRA: Encuentro de Arte y Cocina with FIBRA Colectivo in <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, Colombia. May 25—28, 2022  
+• Le Chant des Forêts, with FIBRA Colectivo in MAIF Social Club, Paris. Set, 2022   
+• Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Set-Oct 2022    
+
 
 #### Reciente
 • Taller de Micofabricación, Laboratorio Biomateriales <a href="https://fibracolectivo.com" target="_blank">FIBRA</a>, Nov 27 & Dic 4    
