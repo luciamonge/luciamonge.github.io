@@ -6,7 +6,7 @@
 
 #### Current | Upcoming
 • <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Coalesce</a> at Stelo Arts in Portland, USA. Nov 20—Feb 15     
-• Unearthing Futures at <a href="https://www.ocat.org.cn/en/" target="_blank">OCAT Biennial</a> in Shenzhen, China. Dec 19  
+• Unearthing Futures at <a href="https://www.ocat.org.cn/en/" target="_blank">OCAT Biennial</a> in Shenzhen, China. Dec 19-Feb 10  
 • <a href="https://maclima.pe/project/negar-el-desierto/" target="_blank">Negar el Desierto</a>, Museo de Arte Contemporáneo de Lima, Perú. May 27—Feb 27   
 • Unearthing Futures at Aranya Art Center in Qinhuangdao, China. Set 26—Feb 1  
 • Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2021-2022          
@@ -18,16 +18,11 @@
 
 
 #### Reciente
-• Taller de Micofabricación, Laboratorio Biomateriales <a href="https://fibracolectivo.com" target="_blank">FIBRA</a>, Nov 27 & Dic 4    
-• Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>    
-• Conversation with Lois Harada for RISD'S <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast    
-• Artist Talk, Lewis & Clark College, Nov 23         
-• Artist Talk, Land and Eco Arts course, Brown University, Nov 17           
-• Artistic Research, conversación con <a href="https://gianinetabja.com/site/" target="_blank">Gianine Tabja</a>, Universidad Católica del Perú, Oct 7       
-• <a href="http://betterworldxdesign.com/conference2021.html#speakers" target="_blank"> Better World by Design</a>, Oct 1 - 3        
-• <a href="https://maclima.pe/project/desbosque-desenterrando-senales/" target="_blank"> Desbosque: desenterrando señales</a> FIBRA colectivo, Museo de Arte Contemporáneo Lima, Abr 15 - Sept 9      
-• <a href="http://www.projetcoal.org/coal/en/2021/05/04/prix-coal-2021-foret/" target="_blank"> COAL Art and Environment Prize</a> with <a href="https://fibracolectivo.com/" target="_blank"> FIBRA Colectivo</a> Jul 2021  
-
+• Taller de Micofabricación, Laboratorio Biomateriales <a href="https://fibracolectivo.com" target="_blank">FIBRA</a>, Nov 27 - Dic 4             
+• Artist Talk, <a href="https://college.lclark.edu/departments/art/visiting_artists/" target="_blank">Visiting Artist Program at Lewis & Clark College</a>, Nov 23         
+• Artist Talk, Land and Ecological Arts course, Brown University, Nov 17  
+• Conversation with Lois Harada for RISD'S <a href="https://alumni.risd.edu/podcast"target="_blank">Pulling on the Thread</a> podcast, Nov  16  
+• Artist-in-residence at <a href="https://www.supercolliderart.com/space-for-humanity-artist-residency" target="_blank">SUPERCOLLIDER x Space for Humanity</a>, Oct-Nov 2021           
 
 
 ## Works <a name="works"></a>
