@@ -429,7 +429,7 @@ Monge has exhibited in South America, Europe, and the United States as well as a
 
 Lucia holds a BFA from Universidad Católica del Peru and a MFA from Rhode Island School of Design. She taught Design in Experimental + Foundation Studies at RISD and Studio Foundation and 3D Foundations in the Visual Arts Department at Brown University. She has recently relocated to Portland, Oregon.
 
-<a href="LuciaMongeResumewebsite.pdf" target="_blank">Curriculum Vitae</a>
+<a href="LuciaMonge_ResumeWeb_2022.pdf" target="_blank">Curriculum Vitae</a>
 
 
 ## <a name="contacto"></a>Contacto
