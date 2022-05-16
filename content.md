@@ -11,7 +11,7 @@
 • PIEDRAPIEDRAPIEDRA: Encuentro de Arte y Cocina <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, Colombia. June 1—4      
 • Le Chant des Forêts, with FIBRA Colectivo, MAIF Social Club, Paris. September 2022       
 • Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Set-Oct 2022      
-• Artist-in-residence at <a href="http://www.ksmoca.com/residency-2020-2021" target="_blank">KSMoCA</a> 2021-2022  
+• Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022  
 • Plant based artist-in-residence at <a href="https://www.steloarts.org" target="_blank">Stelo</a> 2022  
 
 
