@@ -8,7 +8,8 @@
 • <a href="https://www.eventbrite.com/e/going-interplanetary-biodesign-in-space-registration-304901236807" target="_blank">Going Interplanetary: Biodesign in Space</a> Biodesign Challenge, May 04  
 • Pan: arte y maternidad, Hombres y Mujeres en Sociedad, Universidad del Pacífico, Mayo 19    
 • Propagaciones Radicales, <a href="https://18thstreet.org" target="_blank">18th St Arts Center</a>, Santa Monica, USA. March 7—June 25     
-• PIEDRAPIEDRAPIEDRA: Encuentro de Arte y Cocina <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, Colombia. June 1—4      
+• PIEDRAPIEDRAPIEDRA with FIBRA Colectivo <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, Colombia. June 1—4    
+• Science on Stage, panel conversation at Women Playwrights International, Montreal. Jun 18         
 • Le Chant des Forêts, with FIBRA Colectivo, MAIF Social Club, Paris. September 2022       
 • Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Set-Oct 2022      
 • Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022  
