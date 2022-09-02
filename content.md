@@ -19,7 +19,7 @@
 • Science on Stage, panel conversation at Women Playwrights International, Montreal, Jun 18      
 • PIEDRAPIEDRAPIEDRA with FIBRA Colectivo <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, June 1—4    
 • Pan: arte y maternidad, Hombres y Mujeres en Sociedad, Universidad del Pacífico, Lima, May 19   
-• <a href="https://www.eventbrite.com/e/going-interplanetary-biodesign-in-space-registration-304901236807" target="_blank">Going Interplanetary: Biodesign in Space</a> Biodesign Challenge, May 04  
+• <a href="https://www.eventbrite.com/e/going-interplanetary-biodesign-in-space-registration-304901236807" target="_blank">Going Interplanetary: Biodesign in Space</a> Biodesign Challenge, May 04    
 • <a href="https://willamette.edu/undergraduate/arts/visiting-artist/index.html" target="_blank">ART NOW: Visiting Artist Lecture Series at Willamette University</a>, April 21     
 • <a href="https://www.steloarts.org/pb-present-events/lucia-planton-movil-launch" target="_blank">Plantón Móvil publication launch</a> at Stelo, April 10      
 • Fruiting Bodies Workshop, Art & Ecology, Lewis & Clark College, Mar 15      
