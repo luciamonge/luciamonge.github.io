@@ -4,12 +4,11 @@
 
 ## News
 
-#### Current | Upcoming
-• Plantón Móvil, Nuit Blanche, Paris, Jun 3  
-• <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23  
-• ephemeral partner, Imperfect Gallery, Philadelphia, March 10-April 15  
-• <a href="https://www.amherst.edu/academiclife/provost_dean_faculty/faculty_hiring/knowfaculty" target="blank">New faculty position</a> at Amherst College, January 2022  
-
+#### Current | Upcoming  
+• <a href="https://www.amherst.edu/academiclife/provost_dean_faculty/faculty_hiring/knowfaculty" target="blank">New faculty position</a> at Amherst College, January 2022    
+• ephemeral partner, Imperfect Gallery, Philadelphia, March 10-April 15    
+• <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23      
+• Plantón Móvil, Nuit Blanche, Paris, Jun 3     
 
 #### Reciente
 • Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Paris, Set-Oct 2022      
