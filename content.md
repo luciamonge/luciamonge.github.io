@@ -5,28 +5,19 @@
 ## News
 
 #### Current | Upcoming
-• Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Paris, Set-Oct 2022   
-•<a href="https://programmation.maifsocialclub.fr/evenements/le-chant-des-forets/" target="_blank"> Le Chant des Forêts</a> with FIBRA Colectivo, MAIF Social Club, Paris, October 1, 2022              
-• Plantón Móvil 2022 with Dr Martin Luther King Jr School students and KSMoCA, Portland, Oct 7  
-• Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022    
-• Plant based artist-in-residence at <a href="https://www.steloarts.org" target="_blank">Stelo</a> 2022    
+• Plantón Móvil, Nuit Blanche, Paris, Jun 3  
+• <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23  
+• ephemeral partner, Imperfect Gallery, Philadelphia, March 10-April 15  
+• <a href="https://www.amherst.edu/academiclife/provost_dean_faculty/faculty_hiring/knowfaculty" target="blank">New faculty position</a> at Amherst College, January 2022  
 
 
 #### Reciente
-• Presentación publicación Plantón Móvil, <a href="https://maclima.pe/event/ingresolibre-presentacion-de-publicacion-planton-movil-lucia-monge/" target="_blank">MAC Lima</a>, 2 Agosto  
+• Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Paris, Set-Oct 2022      
+• Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022    
+• Plant based artist-in-residence at <a href="https://www.steloarts.org" target="_blank">Stelo</a> 2022  
+• Presentación publicación Plantón Móvil, <a href="https://maclima.pe/event/ingresolibre-presentacion-de-publicacion-planton-movil-lucia-monge/" target="_blank">MAC Lima</a>, 2022  
 • <a href="https://www.artforum.com/picks/radical-propagations-propagaciones-radicales-88564" target="_blank">Artforum Critics' Picks </a> Review for Propagaciones Radicales    
-• Propagaciones Radicales, <a href="https://18thstreet.org" target="_blank">18th St Arts Center</a>, Santa Monica, USA. March 7—July 30    
-• Science on Stage, panel conversation at Women Playwrights International, Montreal, Jun 18      
-• PIEDRAPIEDRAPIEDRA with FIBRA Colectivo <a href="http://pluralnodocultural.com" target="_blank">Plural Nodo Cultural</a>, Bogotá, June 1—4    
-• Pan: arte y maternidad, Hombres y Mujeres en Sociedad, Universidad del Pacífico, Lima, May 19   
-• <a href="https://www.eventbrite.com/e/going-interplanetary-biodesign-in-space-registration-304901236807" target="_blank">Going Interplanetary: Biodesign in Space</a> Biodesign Challenge, May 04    
-• <a href="https://willamette.edu/undergraduate/arts/visiting-artist/index.html" target="_blank">ART NOW: Visiting Artist Lecture Series at Willamette University</a>, April 21     
-• <a href="https://www.steloarts.org/pb-present-events/lucia-planton-movil-launch" target="_blank">Plantón Móvil publication launch</a> at Stelo, April 10      
-• Fruiting Bodies Workshop, Art & Ecology, Lewis & Clark College, Mar 15      
-• <a href="https://www.steloarts.org/coalesce-2021" target="_blank">Coalesce</a> at Stelo Arts in Portland, USA. Nov 20—Feb 15, 2022         
-• Unearthing Futures at <a href="https://www.ocat.org.cn/en/" target="_blank">OCAT Biennial</a> in Shenzhen, China. Dec 19-Feb 10, 2022       
-• <a href="https://maclima.pe/project/negar-el-desierto/" target="_blank">Negar el Desierto</a>, Museo de Arte Contemporáneo de Lima, Perú. May 27—Feb 27, 2022      
-• Unearthing Futures at Aranya Art Center in Qinhuangdao, China. Set 26—Feb 1, 2022             
+
 
 
 ## Works <a name="works"></a>
