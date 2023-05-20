@@ -5,17 +5,21 @@
 ## News
 
 #### Current | Upcoming  
-• <a href="https://www.amherst.edu/academiclife/provost_dean_faculty/faculty_hiring/knowfaculty" target="blank">New faculty position</a> at Amherst College, January 2022    
-• ephemeral partner, Imperfect Gallery, Philadelphia, March 10-April 15    
-• <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23      
-• Plantón Móvil, Nuit Blanche, Paris, Jun 3     
+• Plantón Móvil <a href="https://tram-idf.fr/nuit-blanche-2023-a-vitry-sur-seine-galerie-municipale-jean-collet/" target="_blank">Nuit Blanche</a> Vitry-Sur-Seine Paris, Jun 3        
+• Unearthing Futures at <a href="https://pioneerworks.org/exhibitions/xin-liu-seedlings-and-offsprings" target="_blank">Pioneer Works</a> New York, Jul 7 – Sep 10    
+• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank">Mientras una hoja respira</a> (while a leaf breathes), solo show at Artyard, Oct 28 — Jan 21    
+
 
 #### Reciente
-• Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Paris, Set-Oct 2022      
-• Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022    
-• Plant based artist-in-residence at <a href="https://www.steloarts.org" target="_blank">Stelo</a> 2022  
-• Presentación publicación Plantón Móvil, <a href="https://maclima.pe/event/ingresolibre-presentacion-de-publicacion-planton-movil-lucia-monge/" target="_blank">MAC Lima</a>, 2022  
-• <a href="https://www.artforum.com/picks/radical-propagations-propagaciones-radicales-88564" target="_blank">Artforum Critics' Picks </a> Review for Propagaciones Radicales    
+
+• <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23       
+• ephemeral partner, Imperfect Gallery, Philadelphia, March 10-April 15    
+• <a href="https://www.amherst.edu/academiclife/provost_dean_faculty/faculty_hiring/knowfaculty" target="blank">New faculty position</a> at Amherst College, January 2022        
+• Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Paris, Set-Oct 2022        
+• Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022      
+• Plant based artist-in-residence at <a href="https://www.steloarts.org" target="_blank">Stelo</a> 2022     
+• Presentación publicación Plantón Móvil, <a href="https://maclima.pe/event/ingresolibre-presentacion-de-publicacion-planton-movil-lucia-monge/" target="_blank">MAC Lima</a>, 2022    
+• <a href="https://www.artforum.com/picks/radical-propagations-propagaciones-radicales-88564" target="_blank">Artforum Critics' Picks </a> Review for Propagaciones Radicales      
 
 
 
@@ -417,11 +421,9 @@ Participants were invited to engage in conversation with another person while ea
 
 ## <a name="bio"></a>Bio
 
-Lucia Monge is a Peruvian artist with a background in education and art + science collaboration. Her work explores the way humans position ourselves within the natural world and relate to other living beings, especially plants. For the past nine years she has organized Plantón Móvil, a yearly “walking forest” performance that leads to the creation of public green areas. This year it was organized in collaboration with the Queens Museum, NYC Parks, John Bowne Highschool and local community groups and supported by Citywide Nursery and the Queens Botanical Garden.  
-
-Monge has exhibited in South America, Europe, and the United States as well as at the United Nations Climate Change Conference (COP20). She has presented her work in conferences including Performance Climates at Melbourne University and Open Engagement at the Queens Museum and has been included in publications such as Global Performance Issues and MoMA’s Uneven Growth as well as in the popular press.  
-
-Lucia holds a BFA from Universidad Católica del Peru and a MFA from Rhode Island School of Design. She taught Design in Experimental + Foundation Studies at RISD and Studio Foundation and 3D Foundations in the Visual Arts Department at Brown University. She has recently relocated to Portland, Oregon.
+Lucia Monge is a Peruvian artist whose work explores the ways humans position ourselves within the natural world and relate to other living beings, especially plants. For the past 13 years she has organized Plantón Móvil, a yearly “walking forest” performance that has led to the creation of green spaces in Lima, London, Minneapolis, Providence, New York, and Paris. Other recent projects include exploring vulnerability through plant respiration, a "fungi broadcast" about deforestation in the Peruvian Amazon, and sending potato seeds to space as messengers for non-colonial visions of space travel.     
+   
+Monge has shown her work internationally, including at the Queens Museum, Whitechapel Gallery, Museum of Contemporary Art in Lima, the United Nations Climate Change Conference, Ars Electronica, and the Havana and OCAT (Shenzhen) biennales. Her work has been featured in publications such as MoMA’s Uneven Growth, Global Performance Studies, and Eco-Lógicas Latinas, among other. She holds an MFA from Rhode Island School of Design and a BFA from Universidad Católica del Perú, she is a founding member of FIBRA collective, and an Assistant Professor of Art at Amherst College.  
 
 <a href="LuciaMonge_ResumeWeb_2022.pdf" target="_blank">Curriculum Vitae</a>
 
