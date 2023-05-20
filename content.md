@@ -422,8 +422,8 @@ Participants were invited to engage in conversation with another person while ea
 ## <a name="bio"></a>Bio
 
 Lucia Monge is a Peruvian artist whose work explores the ways humans position ourselves within the natural world and relate to other living beings, especially plants. For the past 13 years she has organized Plantón Móvil, a yearly “walking forest” performance that has led to the creation of green spaces in Lima, London, Minneapolis, Providence, New York, and Paris. Other recent projects include exploring vulnerability through plant respiration, a "fungi broadcast" about deforestation in the Peruvian Amazon, and sending potato seeds to space as messengers for non-colonial visions of space travel.     
-   
-Monge has shown her work internationally, including at the Queens Museum, Whitechapel Gallery, Museum of Contemporary Art in Lima, the United Nations Climate Change Conference, Ars Electronica, and the Havana and OCAT (Shenzhen) biennales. Her work has been featured in publications such as MoMA’s Uneven Growth, Global Performance Studies, and Eco-Lógicas Latinas, among other. She holds an MFA from Rhode Island School of Design and a BFA from Universidad Católica del Perú, she is a founding member of FIBRA collective, and an Assistant Professor of Art at Amherst College.  
+
+Monge has shown her work internationally, including at the Queens Museum, Whitechapel Gallery, Museum of Contemporary Art in Lima, the United Nations Climate Change Conference, Ars Electronica, and the Havana and OCAT (Shenzhen) biennales. Her work has been featured in publications such as MoMA’s Uneven Growth, Global Performance Studies, and with FIBRA in Eco-Lógicas Latinas, among other. She holds an MFA from Rhode Island School of Design and a BFA from Universidad Católica del Perú, she is a founding member of FIBRA collective, and an Assistant Professor of Art at Amherst College.  
 
 <a href="LuciaMonge_ResumeWeb_2022.pdf" target="_blank">Curriculum Vitae</a>
 
