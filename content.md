@@ -4,22 +4,23 @@
 
 ## News
 
-#### Current | Upcoming  
-• Plantón Móvil <a href="https://tram-idf.fr/nuit-blanche-2023-a-vitry-sur-seine-galerie-municipale-jean-collet/" target="_blank">Nuit Blanche</a> Vitry-Sur-Seine Paris, Jun 3        
-• Unearthing Futures at <a href="https://pioneerworks.org/exhibitions/xin-liu-seedlings-and-offsprings" target="_blank">Pioneer Works</a> New York, Jul 7 – Sep 10    
-• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank">Mientras una hoja respira</a> (while a leaf breathes), solo show at Artyard, Oct 28 — Jan 21    
+#### Current | Upcoming        
+• Unearthing Futures at <a href="https://pioneerworks.org/exhibitions/xin-liu-seedlings-and-offsprings" target="_blank">Pioneer Works</a> New York, Jul 7 – Sep 10     
+• Plantón Móvil is featured in <a href="https://www.elgaronline.com/edcollbook-oa/book/9781800376762/9781800376762.xml" target="_blank">"Nature-Based Solutions for Cities"</a> in a chapter by Christopher Kennedy, Ellie Irons, and Patricia Lea Watts. Edward Elgar Publishing, August     
+• FIBRA's work featured in Yasmine Ostendorf's book <a href="https://valiz.nl/en/publications/let-s-become-fungal" target="_blank">"Let's Become Fungal! Mycelium Teachings and the Arts"</a>. Valiz, August   
+• Plantón Móvil featured in <a href="https://mailchi.mp/31906c18ab0a/walking-as-artistic-practice" target="_blank">"Walking as Artistic Practice"</a> by Ellen Mueller. Suny Press, October     
+• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank"> Mientras una hoja respira</a> (while a leaf breathes) upcoming solo show at ArtYard, Oct 28 — Jan 21  
 
 
 #### Reciente
-
+• <a href="https://zur-nachahmung-empfohlen.de/en/artists-2023/" target="_blank">examples to follow! explorations in aesthetics and sustainability</a> Finale - Berlin, May 12th – July 16th    
+• Mission Potato workshop, <a href="https://pioneerworks.org/programs/second-sundays-july-2023" target="_blank">Second Sundays</a>, Pioneer Works, Jul 9  
+• Plantón Móvil publication at Form.a Art Press Fair, Oregon Contemporary, Jul 1      
+• Plantón Móvil <a href="https://tram-idf.fr/nuit-blanche-2023-a-vitry-sur-seine-galerie-municipale-jean-collet/" target="_blank">Nuit Blanche</a> Vitry-Sur-Seine Paris, Jun 3    
 • <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23       
 • ephemeral partner, Imperfect Gallery, Philadelphia, March 10-April 15    
-• <a href="https://www.amherst.edu/academiclife/provost_dean_faculty/faculty_hiring/knowfaculty" target="blank">New faculty position</a> at Amherst College, January 2022        
-• Artists-in-residence at <a href="https://www.fondationlaccolade.com/residences" target="_blank">Fondation LAccolade</a> with FIBRA Colectivo, Paris, Set-Oct 2022        
-• Artist-in-residence at <a href="http://www.ksmoca.com/lucia-monge" target="_blank">KSMoCA</a> 2021-2022      
-• Plant based artist-in-residence at <a href="https://www.steloarts.org" target="_blank">Stelo</a> 2022     
-• Presentación publicación Plantón Móvil, <a href="https://maclima.pe/event/ingresolibre-presentacion-de-publicacion-planton-movil-lucia-monge/" target="_blank">MAC Lima</a>, 2022    
-• <a href="https://www.artforum.com/picks/radical-propagations-propagaciones-radicales-88564" target="_blank">Artforum Critics' Picks </a> Review for Propagaciones Radicales      
+• I started a new faculty position</a> at Amherst College, January 2023               
+
 
 
 
