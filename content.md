@@ -6,6 +6,7 @@
 
 #### Current | Upcoming          
 • <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) solo show at ArtYard, Oct 28 — Jan 21  
+• <a href="https://hyperallergic.com/854640/lucia-monge-while-a-leaf-breathes-mientras-una-hoja-respira-artyard/" target="_blank"> Lucia Monge Collaborates With Living Organisms for While a Leaf Breathes</a> Hyperallergic, Nov 8  
 • <a href="https://www.wavepoolgallery.org/interintra-2023" target="_blank"> INTER/INTRA (2023)</a> group show at Wave Pool, Nov 11 - Dec 16  
 • <a href="https://terremoto.mx/postal/el-destello-de-algo-mas/" target="_blank"> el destello de algo más</a> FIBRA Colectivo in group show with Terremoto. Mexico DF, Nov 18 - Dec 18   
 • Artist talks at ArtYard (10/29), Hampshire College (11/02), and RISD (11/17)  
