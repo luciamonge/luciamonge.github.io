@@ -5,24 +5,16 @@
 ## News
 
 #### Current | Upcoming          
-• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) solo show at ArtYard, Oct 28 — Jan 21  
-• <a href="https://hyperallergic.com/854640/lucia-monge-while-a-leaf-breathes-mientras-una-hoja-respira-artyard/" target="_blank"> Lucia Monge Collaborates With Living Organisms for While a Leaf Breathes</a> Hyperallergic, Nov 8  
-• <a href="https://www.wavepoolgallery.org/interintra-2023" target="_blank"> INTER/INTRA (2023)</a> group show at Wave Pool, Nov 11 - Dec 16  
-• <a href="https://terremoto.mx/postal/el-destello-de-algo-mas/" target="_blank"> el destello de algo más</a> FIBRA Colectivo in group show with Terremoto. Mexico DF, Nov 18 - Dec 18   
-• Artist talks at ArtYard (10/29), Hampshire College (11/02), and RISD (11/17)  
-
+• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) solo show at ArtYard, Oct 28 — Jan 28  
+• <a href="https://sites.hampshire.edu/gallery/lucia-monge-mientras-una-hoja-respira/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) at Hampshire College Art Gallery, Feb 15 — March 22    
+• FIBRA Colectivo in <a href="https://projectcussh.org/projects/the-work-of-art/" target="_blank"> The Work of Art in the Age of Planetary Destruction</a> edited by David Osrin and Aarathi Prasad.    
+• Plantón Móvil on the <a href="https://www.magcloud.com/browse/issue/2690895" target="_blank"> archival issue of CSPA Quarterly</a> from the Centre for Sustainable Arts, edited by Jaime Morra and Evelyn O'Malley    
 
 #### Reciente
-• Unearthing Futures at <a href="https://pioneerworks.org/exhibitions/xin-liu-seedlings-and-offsprings" target="_blank">Pioneer Works</a> New York, Jul 7 – Sep 10  
-• Plantón Móvil featured in <a href="https://mailchi.mp/31906c18ab0a/walking-as-artistic-practice" target="_blank">"Walking as Artistic Practice"</a> by Ellen Mueller. Suny Press, September     
-• Plantón Móvil in <a href="https://www.elgaronline.com/edcollbook-oa/book/9781800376762/9781800376762.xml" target="_blank">"Nature-Based Solutions for Cities"</a> by Christopher Kennedy, Ellie Irons, and Patricia Lea Watts. Edward Elgar Publishing, August  
-• FIBRA's work in <a href="https://valiz.nl/en/publications/let-s-become-fungal" target="_blank">"Let's Become Fungal! Mycelium Teachings and the Arts"</a> by Yasmine Ostendorf. Valiz, August     
-• <a href="https://zur-nachahmung-empfohlen.de/en/artists-2023/" target="_blank">examples to follow! explorations in aesthetics and sustainability</a> Finale - Berlin, May 12th – July 16th        
-• Plantón Móvil <a href="https://tram-idf.fr/nuit-blanche-2023-a-vitry-sur-seine-galerie-municipale-jean-collet/" target="_blank">Nuit Blanche</a> Vitry-Sur-Seine Paris, Jun 3    
-• <a href="https://tram-idf.fr/la-construction-du-champ-5-galerie-jean-collet/" target="_blank">L'Atelier de L'Eau</a> with FIBRA Colectivo, Galerie municipale Jean-Collet, March 11- April 23                     
-
-
-
+• <a href="https://hyperallergic.com/854640/lucia-monge-while-a-leaf-breathes-mientras-una-hoja-respira-artyard/" target="_blank"> Lucia Monge Collaborates With Living Organisms for While a Leaf Breathes</a> Hyperallergic, Nov 8  
+• <a href="https://www.wavepoolgallery.org/interintra-2023" target="_blank"> INTER/INTRA (2023)</a> group show at Wave Pool, Nov 11 - Dec 16  
+• <a href="https://terremoto.mx/postal/el-destello-de-algo-mas/" target="_blank"> el destello de algo más</a> FIBRA Colectivo in group show with Terremoto. Mexico DF, Nov 18 - Dec 18    
+• FIBRA's work featured in Yasmine Ostendorf's book <a href="https://valiz.nl/images/publicaties/Lets_Become_Fungal/LetsBecomeFungalWorkshops.pdf" target="_blank"> "Let's Become Fungal! Mycelium Teachings and the Arts"</a>                    
 
 ## Works <a name="works"></a>
 
