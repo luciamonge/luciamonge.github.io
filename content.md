@@ -5,16 +5,20 @@
 ## News
 
 #### Current | Upcoming          
-• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) solo show at ArtYard, Oct 28 — Jan 28  
 • <a href="https://sites.hampshire.edu/gallery/lucia-monge-mientras-una-hoja-respira/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) at Hampshire College Art Gallery, Feb 15 — March 22    
-• FIBRA Colectivo in <a href="https://projectcussh.org/projects/the-work-of-art/" target="_blank"> The Work of Art in the Age of Planetary Destruction</a> edited by David Osrin and Aarathi Prasad.    
-• Plantón Móvil on the <a href="https://www.magcloud.com/browse/issue/2690895" target="_blank"> archival issue of CSPA Quarterly</a> from the Centre for Sustainable Arts, edited by Jaime Morra and Evelyn O'Malley    
+• Artist talk, SAIC- School of the Art Institute of Chicago, Mar 19      
+• FIBRA Colectivo at "Habitar Futuros Posibles" Museum of Contemporary Art in Lima, Mar 21 — Apr 23      
+• <a href="https://www.amherst.edu/academiclife/departments/art/a-calendar/node/907988" target="_blank"> ARHA Faculty and Staff Show</a> Amherst College, Feb 21 — Apr 29    
+• FIBRA Colectivo solo show at NOW Gallery, Lima, Aug 1  
+• <a href="https://pst.art/en/exhibitions/arteonica-art-science-and-technology-in-latin-america-today" target="_blank"> ARTEONICA: Art, Science, and Technology in Latin America Today</a> MOLAA - Museum of Latin American Art, Sep 7 — Feb 2 2025    
+
 
 #### Reciente
-• <a href="https://hyperallergic.com/854640/lucia-monge-while-a-leaf-breathes-mientras-una-hoja-respira-artyard/" target="_blank"> Lucia Monge Collaborates With Living Organisms for While a Leaf Breathes</a> Hyperallergic, Nov 8  
-• <a href="https://www.wavepoolgallery.org/interintra-2023" target="_blank"> INTER/INTRA (2023)</a> group show at Wave Pool, Nov 11 - Dec 16  
-• <a href="https://terremoto.mx/postal/el-destello-de-algo-mas/" target="_blank"> el destello de algo más</a> FIBRA Colectivo in group show with Terremoto. Mexico DF, Nov 18 - Dec 18    
-• FIBRA's work featured in Yasmine Ostendorf's book <a href="https://valiz.nl/images/publicaties/Lets_Become_Fungal/LetsBecomeFungalWorkshops.pdf" target="_blank"> "Let's Become Fungal! Mycelium Teachings and the Arts"</a>                    
+• <a href="https://artyard.org/exhibitions/lucia-monge-mientras-una-hoja-respira-while-a-leaf-breathes/" target="_blank"> Mientras una Hoja Respira</a> (While a Leaf Breathes) solo show at ArtYard, Oct 28 — Jan 28    
+• <a href="https://hyperallergic.com/854640/lucia-monge-while-a-leaf-breathes-mientras-una-hoja-respira-artyard/" target="_blank"> Lucia Monge Collaborates With Living Organisms for While a Leaf Breathes</a> Hyperallergic, Nov 8      
+• FIBRA Colectivo in <a href="https://projectcussh.org/projects/the-work-of-art/" target="_blank"> The Work of Art in the Age of Planetary Destruction</a> edited by David Osrin and Aarathi Prasad.      
+• Plantón Móvil on the <a href="https://www.magcloud.com/browse/issue/2690895" target="_blank"> archival issue of CSPA Quarterly</a> from the Centre for Sustainable Arts, edited by Jaime Morra and Evelyn O'Malley      
+• FIBRA's work featured in Yasmine Ostendorf's book <a href="https://valiz.nl/images/publicaties/Lets_Become_Fungal/LetsBecomeFungalWorkshops.pdf" target="_blank"> "Let's Become Fungal! Mycelium Teachings and the Arts"</a>                      
 
 ## Works <a name="works"></a>
 
